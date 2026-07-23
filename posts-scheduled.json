@@ -4,9 +4,13 @@
     "publish_at": "2026-07-23T18:00:00+09:00",
     "type": "image",
     "pillar": "test",
-    "images": ["images/test/test-post-01.jpg"],
+    "images": [
+      "images/test/test-post-01.jpg"
+    ],
     "caption": "テスト投稿です。\n自動投稿パイプラインの動作確認用で、内容に意味はありません。",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17901351330471064",
+    "published_at": "2026-07-23T10:39:01.835Z"
   }
 ]

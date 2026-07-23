@@ -4,9 +4,12 @@
     "publish_at": "2026-07-23T18:00:00+09:00",
     "type": "image",
     "pillar": "test",
-    "images": ["images/test/test-post-01.jpg"],
+    "images": [
+      "images/test/test-post-01.jpg"
+    ],
     "caption": "テスト投稿です。\n自動投稿パイプラインの動作確認用で、内容に意味はありません。",
     "hashtags": [],
-    "status": "approved"
+    "status": "error",
+    "error_message": "Graph API error: {\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"公開できません\",\"error_user_msg\":\"このメディアは公開する準備ができていません。しばらくお待ちください。\",\"fbtrace_id\":\"Ag3ndxDaPRFobcY-NXCNZhv\"}"
   }
 ]

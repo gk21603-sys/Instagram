@@ -4,13 +4,21 @@
     "publish_at": "2026-07-23T18:00:00+09:00",
     "type": "image",
     "pillar": "test",
-    "images": [
-      "images/test/test-post-01.jpg"
-    ],
+    "images": ["images/test/test-post-01.jpg"],
     "caption": "テスト投稿です。\n自動投稿パイプラインの動作確認用で、内容に意味はありません。",
     "hashtags": [],
     "status": "published",
     "published_media_id": "17901351330471064",
     "published_at": "2026-07-23T10:39:01.835Z"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-07-23T20:28:00+09:00",
+    "type": "image",
+    "pillar": "brand",
+    "images": ["images/2026-07/thought-card-01.jpg"],
+    "caption": "香りでつながる、ひばの森。\n\n青森県大間、国有林の天然ヒバ。専属職人が一滴ずつ、香りを蒸留しています。\n\n▼ オンラインストア",
+    "hashtags": ["#青森ヒバ", "#ひばの森", "#青森ヒバ精油", "#大間", "#国有林", "#ヒバ油"],
+    "status": "approved"
   }
 ]

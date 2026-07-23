@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-07-23T18:00:00+09:00",
+    "type": "image",
+    "pillar": "test",
+    "images": ["images/test/test-post-01.jpg"],
+    "caption": "テスト投稿です。\n自動投稿パイプラインの動作確認用で、内容に意味はありません。",
+    "hashtags": [],
+    "status": "approved"
+  }
+]

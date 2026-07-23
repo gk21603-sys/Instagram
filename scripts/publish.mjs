@@ -89,6 +89,7 @@ async function publishPost(post) {
       image_url: IMAGE_BASE + post.images[0],
       caption,
     });
+    await waitUntilFinished(container.id);
     const publish = await graphPost(`${igUserId}/media_publish`, {
       creation_id: container.id,
     });
@@ -103,6 +104,7 @@ async function publishPost(post) {
         image_url: IMAGE_BASE + img,
         is_carousel_item: 'true',
       });
+      await waitUntilFinished(child.id);
       childIds.push(child.id);
     }
     const container = await graphPost(`${igUserId}/media`, {
@@ -110,6 +112,7 @@ async function publishPost(post) {
       children: childIds.join(','),
       caption,
     });
+    await waitUntilFinished(container.id);
     const publish = await graphPost(`${igUserId}/media_publish`, {
       creation_id: container.id,
     });

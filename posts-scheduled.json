@@ -4,7 +4,9 @@
     "publish_at": "2026-07-23T18:00:00+09:00",
     "type": "image",
     "pillar": "test",
-    "images": ["images/test/test-post-01.jpg"],
+    "images": [
+      "images/test/test-post-01.jpg"
+    ],
     "caption": "テスト投稿です。\n自動投稿パイプラインの動作確認用で、内容に意味はありません。",
     "hashtags": [],
     "status": "published",
@@ -16,9 +18,18 @@
     "publish_at": "2026-07-23T20:28:00+09:00",
     "type": "image",
     "pillar": "brand",
-    "images": ["images/2026-07/thought-card-01.jpg"],
+    "images": [
+      "images/2026-07/thought-card-01.jpg"
+    ],
     "caption": "香りでつながる、ひばの森。\n\n青森県大間、国有林の天然ヒバ。専属職人が一滴ずつ、香りを蒸留しています。\n\n▼ オンラインストア",
-    "hashtags": ["#青森ヒバ", "#ひばの森", "#青森ヒバ精油", "#大間", "#国有林", "#ヒバ油"],
+    "hashtags": [
+      "#青森ヒバ",
+      "#ひばの森",
+      "#青森ヒバ精油",
+      "#大間",
+      "#国有林",
+      "#ヒバ油"
+    ],
     "status": "published",
     "published_media_id": "18367525513239065",
     "published_at": "2026-07-23T11:40:29.784Z"
@@ -28,9 +39,18 @@
     "publish_at": "2026-07-24T12:41:00+09:00",
     "type": "image",
     "pillar": "C",
-    "images": ["images/2026-07/tree-01.jpg"],
+    "images": [
+      "images/2026-07/tree-01.jpg"
+    ],
     "caption": "樹齢を重ねた、青森ヒバの木肌。\n\n大間の国有林で育つ天然ヒバは、厳しい寒さの中でゆっくりと年輪を重ねます。\nこの木目のひとつひとつに、香りの理由があります。\n\n香りでつながる、ひばの森。\n▼ オンラインストア",
-    "hashtags": ["#青森ヒバ", "#大間", "#国有林", "#ひばの森", "#青森"],
-    "status": "approved"
+    "hashtags": [
+      "#青森ヒバ",
+      "#大間",
+      "#国有林",
+      "#ひばの森",
+      "#青森"
+    ],
+    "status": "error",
+    "error_message": "Graph API error: {\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"A6o7K4FfH14S0NiwKb0dXAw\"}"
   }
 ]

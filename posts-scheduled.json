@@ -93,8 +93,7 @@
       "#アップサイクル",
       "#ヒバ総合研究所"
     ],
-    "status": "error",
-    "error_message": "Graph API error: {\"message\":\"Unsupported post request. Object with ID '17841410059384476' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"type\":\"GraphMethodException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AovKF88lC88cUReReBY9cry\"}"
+    "status": "approved"
   },
   {
     "account": "hibasoken",

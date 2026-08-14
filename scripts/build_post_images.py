@@ -54,7 +54,7 @@ ITEMS = [
     ("10-trunk", "hiba-trunk-4.jpg",
      ["この太さに、", "200年。"], 0.50),
     ("11-bottles", "factory-spray-bottles.jpg",
-     ["蒸留水って、", "なんですか。"], 0.45),
+          ["同じ釜から、", "油と水が採れます。"], 0.45),
     ("12-board", "hiba-cutting-boards.jpg",
      ["削れば、", "また新しい面が出る。"], 0.50),
 ]

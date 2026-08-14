@@ -30,7 +30,7 @@ COPPER = (174, 112, 66)
 GREEN = (27, 43, 33)
 BAND_H = 300
 FEATHER = 90
-PRECROP = {"hiba-cutting-boards.jpg": (0.225, 0.267, 0.775, 1.0)}
+PRECROP = {"hiba-cutting-boards.jpg": (0.24, 0.37, 0.78, 1.0)}
 
 # (出力名, 元画像, 見出し行, 縦方向の切り出し位置 0=上 1=下)
 ITEMS = [

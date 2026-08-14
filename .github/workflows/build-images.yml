@@ -1,0 +1,40 @@
+name: Build post images
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 明朝体フォントを導入
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk
+
+      - name: 依存パッケージを導入
+        run: pip install --quiet pillow numpy
+
+      - name: 画像を生成
+        run: python scripts/build_post_images.py
+
+      - name: 生成物をコミット
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images/2026-08
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: 投稿用画像を生成 [skip ci]"
+            git push
+          fi

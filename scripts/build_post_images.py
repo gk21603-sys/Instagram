@@ -30,6 +30,7 @@ COPPER = (174, 112, 66)
 GREEN = (27, 43, 33)
 BAND_H = 300
 FEATHER = 90
+PRECROP = {"hiba-cutting-boards.jpg": (0.225, 0.267, 0.775, 1.0)}
 
 # (出力名, 元画像, 見出し行, 縦方向の切り出し位置 0=上 1=下)
 ITEMS = [
@@ -127,6 +128,9 @@ def main():
     os.makedirs(OUTDIR, exist_ok=True)
     for name, src, lines, focus in ITEMS:
         im = load(src)
+        if src in PRECROP:
+            l, t, r, b = PRECROP[src]
+            im = im.crop((int(l * im.size[0]), int(t * im.size[1]), int(r * im.size[0]), int(b * im.size[1])))
         low = im.size[0] < 900
         im = square_crop(im, focus).resize((S, S), Image.LANCZOS)
         if low:

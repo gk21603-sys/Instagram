@@ -58,6 +58,12 @@ ITEMS = [
           ["同じ釜から、", "油と水が採れます。"], 0.45),
     ("12-board", "hiba-cutting-boards.jpg",
      ["削れば、", "また新しい面が出る。"], 0.50),
+    ("nomori-01-soap", "hiba-soap.jpg", [], 0.45),
+    ("nomori-02-lighthouse", "oma-lighthouse-bentenjima.jpg", [], 0.50),
+    ("nomori-03-workbench", "factory-workbench.jpg", [], 0.50),
+    ("nomori-04-leaf", "hiba-leaf-macro-2.jpg", [], 0.50),
+    ("nomori-05-pier", "oma-pier-empty.jpg", [], 0.50),
+    ("nomori-06-oil", "hiba-oil-life.png", [], 0.50),
 ]
 
 
@@ -136,7 +142,8 @@ def main():
         if low:
             im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=105, threshold=2))
         im = grade(im)
-        im = band_and_text(im, lines, font_path)
+        if lines:
+            im = band_and_text(im, lines, font_path)
         out = os.path.join(OUTDIR, name + ".jpg")
         im.save(out, quality=90, optimize=True)
         print("wrote", out, im.size)

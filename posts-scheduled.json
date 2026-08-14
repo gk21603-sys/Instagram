@@ -76,7 +76,7 @@
   },
   {
     "account": "hibasoken",
-    "publish_at": "2026-08-17T12:00:00+09:00",
+    "publish_at": "2026-08-14T09:00:00+09:00",
     "type": "image",
     "pillar": "soken",
     "images": [
@@ -306,7 +306,7 @@
   },
   {
     "account": "hibanomori",
-    "publish_at": "2026-08-18T12:00:00+09:00",
+    "publish_at": "2026-08-14T09:30:00+09:00",
     "type": "image",
     "pillar": "A",
     "images": [

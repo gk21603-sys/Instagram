@@ -1,0 +1,73 @@
+from PIL import Image, ImageDraw, ImageFont
+import os
+
+OUT = "images/2026-09-gensui"
+F = "/usr/share/fonts/opentype/noto/NotoSerifCJK-Regular.ttc"
+LAT = "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf"
+S = 1080
+GREEN = (27, 43, 33)
+CREAM = (242, 240, 233)
+COPPER = (174, 112, 66)
+DIM = (176, 186, 178)
+M = 132
+os.makedirs(OUT, exist_ok=True)
+big = ImageFont.truetype(F, 86)
+mid = ImageFont.truetype(F, 74)
+mid2 = ImageFont.truetype(F, 68)
+pro = ImageFont.truetype(F, 58)
+body = ImageFont.truetype(F, 36)
+small = ImageFont.truetype(F, 28)
+lat24 = ImageFont.truetype(LAT, 24)
+lat26 = ImageFont.truetype(LAT, 26)
+
+im1 = Image.new("RGB", (S, S), GREEN)
+d1 = ImageDraw.Draw(im1)
+d1.text((M, 300), " ".join("AOMORI HIBA DISTILLED WATER"), font=lat24, fill=COPPER, anchor="la")
+d1.text((M, 420), "捨てられていた水を、", font=big, fill=CREAM, anchor="la")
+d1.text((M, 553), "主役に。", font=big, fill=CREAM, anchor="la")
+d1.line([(M, 760), (M + 64, 760)], fill=COPPER, width=2)
+im1.save(OUT + "/01.jpg", quality=92)
+
+im2 = Image.new("RGB", (S, S), GREEN)
+d2 = ImageDraw.Draw(im2)
+d2.text((M, 300), "精油のとなりで、", font=mid, fill=CREAM, anchor="la")
+d2.text((M, 415), "生まれていた水。", font=mid, fill=CREAM, anchor="la")
+d2.line([(M, 576), (M + 64, 576)], fill=COPPER, width=2)
+d2.text((M, 640), "青森ヒバを蒸留すると、精油と一緒に", font=body, fill=DIM, anchor="la")
+d2.text((M, 703), "大量の蒸留水が生まれます。", font=body, fill=DIM, anchor="la")
+d2.text((M, 766), "かつては捨てられていた水です。", font=body, fill=DIM, anchor="la")
+im2.save(OUT + "/02.jpg", quality=92)
+
+im3 = Image.new("RGB", (S, S), GREEN)
+d3 = ImageDraw.Draw(im3)
+d3.text((M, 300), "全成分表示は、", font=mid, fill=CREAM, anchor="la")
+d3.text((M, 415), "一行で終わる。", font=mid, fill=CREAM, anchor="la")
+d3.line([(M, 576), (M + 64, 576)], fill=COPPER, width=2)
+d3.text((M, 640), "「青森ひば蒸留水」。", font=body, fill=DIM, anchor="la")
+d3.text((M, 703), "この製品の成分表示は、それだけです。", font=body, fill=DIM, anchor="la")
+d3.text((M, 766), "足したものがないので、", font=body, fill=DIM, anchor="la")
+d3.text((M, 829), "書くことがありません。", font=body, fill=DIM, anchor="la")
+im3.save(OUT + "/03.jpg", quality=92)
+
+im4 = Image.new("RGB", (S, S), GREEN)
+d4 = ImageDraw.Draw(im4)
+d4.text((M, 240), " ".join("THREE PROMISES"), font=lat24, fill=COPPER, anchor="la")
+d4.text((M, 340), "01", font=lat26, fill=COPPER, anchor="la")
+d4.text((M, 384), "希釈しない", font=pro, fill=CREAM, anchor="la")
+d4.text((M, 510), "02", font=lat26, fill=COPPER, anchor="la")
+d4.text((M, 554), "添加しない", font=pro, fill=CREAM, anchor="la")
+d4.text((M, 680), "03", font=lat26, fill=COPPER, anchor="la")
+d4.text((M, 724), "使い方を限定しない", font=pro, fill=CREAM, anchor="la")
+im4.save(OUT + "/04.jpg", quality=92)
+
+im5 = Image.new("RGB", (S, S), GREEN)
+d5 = ImageDraw.Draw(im5)
+d5.text((M, 320), "まずは、今夜のお風呂から。", font=mid2, fill=CREAM, anchor="la")
+d5.line([(M, 460), (M + 64, 460)], fill=COPPER, width=2)
+d5.text((M, 520), "200Lの浴槽に200ml。", font=body, fill=DIM, anchor="la")
+d5.text((M, 583), "1本で約9回分。", font=body, fill=DIM, anchor="la")
+d5.text((M, 646), "精油より穏やかな、", font=body, fill=DIM, anchor="la")
+d5.text((M, 709), "木そのものに近い香りに包まれます。", font=body, fill=DIM, anchor="la")
+d5.text((M, 880), "ひばの源水／オンラインストアは近日公開", font=small, fill=COPPER, anchor="la")
+im5.save(OUT + "/05.jpg", quality=92)
+print("wrote 5 cards")

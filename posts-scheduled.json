@@ -114,7 +114,9 @@
       "#青森県",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18093074078452006",
+    "published_at": "2026-08-19T10:24:51.023Z"
   },
   {
     "account": "hibasoken",
@@ -408,7 +410,7 @@
     "images": [
       "images/2026-08/nomori-06-oil.jpg"
     ],
-"caption": "青森ヒバ精油。\n\n原料は青森ヒバだけ。蒸留は大間の蒸留所で行っています。\n\nオンラインストアは近日公開です。",
+    "caption": "青森ヒバ精油。\n\n原料は青森ヒバだけ。蒸留は大間の蒸留所で行っています。\n\nオンラインストアは近日公開です。",
     "hashtags": [
       "#青森ヒバ",
       "#青森ヒバ精油",

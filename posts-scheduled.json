@@ -346,7 +346,9 @@
       "#ひばの森",
       "#青森"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18617273893052660",
+    "published_at": "2026-08-20T10:26:32.820Z"
   },
   {
     "account": "hibanomori",

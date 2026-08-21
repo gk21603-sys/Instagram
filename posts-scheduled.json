@@ -468,5 +468,33 @@
       "#ヒバ総合研究所"
     ],
     "status": "approved"
+  },
+  {
+    "account": "hibasoken",
+    "publish_at": "2026-08-28T12:00:00+09:00",
+    "type": "image",
+    "pillar": "soken",
+    "images": [
+      "images/2026-08/charter/00-cover.jpg",
+      "images/2026-08/charter/01-art.jpg",
+      "images/2026-08/charter/02-art.jpg",
+      "images/2026-08/charter/03-art.jpg",
+      "images/2026-08/charter/04-art.jpg",
+      "images/2026-08/charter/05-art.jpg",
+      "images/2026-08/charter/06-art.jpg",
+      "images/2026-08/charter/07-art.jpg"
+    ],
+    "caption": "「ものづくり憲章」を制定しました。\n\n青森ヒバは、人の手で増やせない有限の資源です。この木に関わる者として、自分たちのものづくりに課してきた決まりを、七つの条文にまとめました。\n\n新しく定めた決まりではありません。1988年から続く仕事の中で、当たり前に守られてきたことの明文化です。\n\n全文と制定の背景は、プロフィールのリンク、またはお知らせからご覧ください。\nwww.aomori-hiba.com/news/11.html",
+    "hashtags": [
+      "#青森ヒバ",
+      "#ものづくり",
+      "#ものづくり憲章",
+      "#ヒバ精油",
+      "#サステナブル",
+      "#青森県",
+      "#大間町",
+      "#ヒバ総合研究所"
+    ],
+    "status": "approved"
   }
 ]

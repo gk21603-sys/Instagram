@@ -366,7 +366,9 @@
       "#大間",
       "#ひばの森"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17884543062615933",
+    "published_at": "2026-08-22T10:19:47.392Z"
   },
   {
     "account": "hibanomori",
@@ -467,7 +469,9 @@
       "#大間町",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18437289427192510",
+    "published_at": "2026-08-22T10:19:47.392Z"
   },
   {
     "account": "hibasoken",

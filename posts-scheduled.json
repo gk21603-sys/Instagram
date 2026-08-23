@@ -135,7 +135,9 @@
       "#青森ヒバ",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18068088590720243",
+    "published_at": "2026-08-23T10:20:31.922Z"
   },
   {
     "account": "hibasoken",

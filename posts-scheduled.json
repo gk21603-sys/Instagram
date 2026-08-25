@@ -388,7 +388,9 @@
       "#ひばの森",
       "#ヒバ材"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18155940802505468",
+    "published_at": "2026-08-25T10:29:02.037Z"
   },
   {
     "account": "hibanomori",

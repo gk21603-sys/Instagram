@@ -157,7 +157,9 @@
       "#大間町",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18130133980660529",
+    "published_at": "2026-08-26T10:32:00.098Z"
   },
   {
     "account": "hibasoken",

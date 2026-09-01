@@ -459,7 +459,9 @@
       "#大間",
       "#無添加"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18148924597532778",
+    "published_at": "2026-09-01T14:30:05.242Z"
   },
   {
     "account": "hibasoken",

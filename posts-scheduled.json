@@ -199,7 +199,9 @@
       "#充填",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18093072836264841",
+    "published_at": "2026-09-02T14:03:33.175Z"
   },
   {
     "account": "hibasoken",

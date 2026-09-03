@@ -604,7 +604,9 @@
       "#精油",
       "#無添加"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17903000016563751",
+    "published_at": "2026-09-03T14:06:49.129Z"
   },
   {
     "account": "hibasoken",
@@ -624,6 +626,8 @@
       "#自社製造",
       "#D2C"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18482760322104884",
+    "published_at": "2026-09-03T14:06:49.129Z"
   }
 ]

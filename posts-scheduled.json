@@ -566,7 +566,9 @@
       "#ひばの森",
       "#下北半島"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18114030250999177",
+    "published_at": "2026-09-07T15:29:27.598Z"
   },
   {
     "account": "hibanomori",

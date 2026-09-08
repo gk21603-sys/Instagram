@@ -44,7 +44,7 @@ Graph API: POST /{ig-user-id}/media → POST /{ig-user-id}/media_publish
 |---|---|
 | `account` | `hibanomori`（ひばの森）または `hibasoken`（ヒバ総研） |
 | `publish_at` | 公開したい日時（ISO8601、`+09:00` で JST 指定） |
-| `type` | `image`（1枚 or 複数枚でカルーセル）/ `carousel` / `reel` |
+| `type` | `image`（1枚 or 複数枚でカルーセル）/ `carousel` / `reel` / `story`（ストーリーズ・画像1枚 or 動画1本） |
 | `pillar` | 戦略上のコンテンツ柱（A〜E、任意の記録用） |
 | `images` | リポジトリ内の画像パスの配列。先に `images/` 配下にpushしておくこと |
 | `caption` | 本文 |
@@ -71,6 +71,7 @@ cron を待たずにその場で実行できます。`publish_at` を過去の�
 
 ## 制約
 
-- ストーリーズは Graph API 非対応のため自動化できません（手動 or Business Suite予約）
+- ストーリーズは 2023年5月から Content Publishing API で公開可能（`type: "story"`）。ただし**リンクスタンプ・質問箱・アンケートなどのスタンプはAPIから付けられない**ため、それらが必要な回は手動で投稿する
+- ストーリーズは `caption` が無視される。文字は画像に焼き込む（`scripts/build_story_cards.py`）
 - 24時間あたり50投稿までの上限があるが、週3〜4本の運用では問題にならない
 - リール（動画）は処理完了まで最大2分ポーリングして待機します

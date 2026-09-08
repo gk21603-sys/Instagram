@@ -119,6 +119,22 @@ async function publishPost(post) {
     return publish.id;
   }
 
+  // ストーリーズ（画像1枚 or 動画1本）
+  // 2023年5月からContent Publishing APIで公開可能。スタンプ・リンクはAPIから付けられない
+  if (post.type === 'story') {
+    const src = post.images[0];
+    const isVideo = /\.(mp4|mov)$/i.test(src);
+    const container = await graphPost(`${igUserId}/media`, {
+      media_type: 'STORIES',
+      ...(isVideo ? { video_url: IMAGE_BASE + src } : { image_url: IMAGE_BASE + src }),
+    });
+    await waitUntilFinished(container.id);
+    const publish = await graphPost(`${igUserId}/media_publish`, {
+      creation_id: container.id,
+    });
+    return publish.id;
+  }
+
   // リール（動画1本）
   if (post.type === 'reel') {
     const container = await graphPost(`${igUserId}/media`, {

@@ -1898,5 +1898,17 @@
     "caption": "",
     "hashtags": [],
     "status": "approved"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-08T13:00:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/daily-2026-09-08.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved"
   }
 ]

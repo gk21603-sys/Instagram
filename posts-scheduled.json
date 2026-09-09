@@ -1955,8 +1955,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+    "status": "published",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）",
+    "published_media_id": "17969453901151370",
+    "published_at": "2026-09-09T11:10:37.311Z"
   },
   {
     "account": "hibanomori",
@@ -1968,8 +1970,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+    "status": "published",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）",
+    "published_media_id": "17867970762641476",
+    "published_at": "2026-09-09T11:10:37.311Z"
   },
   {
     "account": "hibanomori",
@@ -1981,8 +1985,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+    "status": "published",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）",
+    "published_media_id": "17905373733551507",
+    "published_at": "2026-09-09T11:10:37.311Z"
   },
   {
     "account": "hibanomori",
@@ -1994,8 +2000,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+    "status": "published",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）",
+    "published_media_id": "18111283643030091",
+    "published_at": "2026-09-09T11:10:37.311Z"
   },
   {
     "account": "hibanomori",
@@ -2007,8 +2015,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+    "status": "published",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）",
+    "published_media_id": "18120257269914858",
+    "published_at": "2026-09-09T11:10:37.311Z"
   },
   {
     "account": "hibanomori",
@@ -2020,7 +2030,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+    "status": "published",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）",
+    "published_media_id": "18127773052790642",
+    "published_at": "2026-09-09T11:10:37.311Z"
   }
 ]

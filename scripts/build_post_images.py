@@ -53,7 +53,7 @@ ITEMS = [
     ("09-inspection", "factory-material-weighing.jpg",
      ["「検品後」と", "書いた箱があります。"], 0.45),
     ("10-trunk", "hiba-trunk-4.jpg",
-     ["この太さに、", "200年。"], 0.50),
+     ["これで、", "まだ15年。"], 0.50),
     ("11-bottles", "factory-spray-bottles.jpg",
           ["同じ釜から、", "油と水が採れます。"], 0.45),
     ("12-board", "hiba-cutting-boards.jpg",

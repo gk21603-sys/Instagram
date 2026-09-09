@@ -58,8 +58,23 @@ def wrap(text, n):
     return fixed
 
 
+BASE_URL = "https://www.aomori-hiba.com/images/"
+
+
+def open_source(name):
+    """ローカルの素材ディレクトリになければ会社サイトから取得する。
+    GitHub Actions 上ではローカルに素材が無いので、こちらの経路を通る。"""
+    local = os.path.join(SRC, name)
+    if os.path.exists(local):
+        return Image.open(local)
+    import io
+    import urllib.request
+    with urllib.request.urlopen(BASE_URL + name, timeout=60) as r:
+        return Image.open(io.BytesIO(r.read()))
+
+
 def photo_bg(name, focus=0.5):
-    im = Image.open(os.path.join(SRC, name)).convert("RGB")
+    im = open_source(name).convert("RGB")
     if min(im.size) < 1080:
         raise SystemExit(f"解像度不足のためストーリーに使えません: {name} {im.size}")
     # 1080x1920 に被せる（縦長にクロップ）

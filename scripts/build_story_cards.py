@@ -69,7 +69,8 @@ def open_source(name):
         return Image.open(local)
     import io
     import urllib.request
-    with urllib.request.urlopen(BASE_URL + name, timeout=60) as r:
+    req = urllib.request.Request(BASE_URL + name, headers={"User-Agent": "hiba-image-builder"})
+    with urllib.request.urlopen(req, timeout=60) as r:
         return Image.open(io.BytesIO(r.read()))
 
 

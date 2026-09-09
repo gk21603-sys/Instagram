@@ -241,7 +241,9 @@
       "#下北半島",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18124111298494907",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibasoken",
@@ -714,8 +716,10 @@
       "#ヒノキ",
       "#香り"
     ],
-    "status": "approved",
-    "note_id": 27
+    "status": "published",
+    "note_id": 27,
+    "published_media_id": "18100793930280127",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",
@@ -1227,7 +1231,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18136987531621708",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",
@@ -1539,8 +1545,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "hiba"
+    "status": "published",
+    "highlight": "hiba",
+    "published_media_id": "17962866183198628",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",
@@ -1552,8 +1560,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "hiba"
+    "status": "published",
+    "highlight": "hiba",
+    "published_media_id": "17966120798962867",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",
@@ -1565,8 +1575,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "hiba"
+    "status": "published",
+    "highlight": "hiba",
+    "published_media_id": "18114116497768221",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",
@@ -1578,8 +1590,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "hiba"
+    "status": "published",
+    "highlight": "hiba",
+    "published_media_id": "18307063954303313",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",
@@ -1591,8 +1605,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "hiba"
+    "status": "published",
+    "highlight": "hiba",
+    "published_media_id": "18342415735270937",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",
@@ -1604,8 +1620,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "hiba"
+    "status": "published",
+    "highlight": "hiba",
+    "published_media_id": "18336356371256748",
+    "published_at": "2026-09-09T10:16:30.787Z"
   },
   {
     "account": "hibanomori",

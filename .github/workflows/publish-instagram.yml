@@ -2,7 +2,7 @@ name: Publish scheduled Instagram posts
 
 on:
   schedule:
-    - cron: '0 10 * * *'   # 毎日 19:00 JST (UTC+9) に実行
+    - cron: '0 * * * *'   # 毎時0分に実行（GitHubのscheduleは数時間遅れることがあるため）
   workflow_dispatch: {}     # 手動テスト実行用
 
 permissions:

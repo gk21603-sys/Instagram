@@ -1929,5 +1929,18 @@
     "status": "published",
     "published_media_id": "18054115415637461",
     "published_at": "2026-09-08T05:00:01.161Z"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-09T19:30:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/hl-hiba-03.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved",
+    "note": "9/9 18:06に出した誤記版（この太さに、200年）の差し替え"
   }
 ]

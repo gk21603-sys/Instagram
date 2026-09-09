@@ -1944,5 +1944,83 @@
     "note": "9/9 18:06に出した誤記版（この太さに、200年）の差し替え",
     "published_media_id": "18087981386368517",
     "published_at": "2026-09-09T11:02:44.627Z"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-09T19:50:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/hl-hiba-01.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-09T19:51:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/hl-hiba-02.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-09T19:52:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/hl-hiba-03.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-09T19:53:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/hl-hiba-04.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-09T19:54:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/hl-hiba-05.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
+  },
+  {
+    "account": "hibanomori",
+    "publish_at": "2026-09-09T19:55:00+09:00",
+    "type": "story",
+    "pillar": "S",
+    "images": [
+      "images/stories/hl-hiba-06.jpg"
+    ],
+    "caption": "",
+    "hashtags": [],
+    "status": "approved",
+    "note": "ハイライト用に6枚を正しい順で出し直し（ハイライトは投稿順に並び、後から並べ替えられないため）"
   }
 ]

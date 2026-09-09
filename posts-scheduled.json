@@ -280,7 +280,8 @@
       "#津軽藩",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "draft",
+    "hold_reason": "写真は総研の庭に植えた樹齢15年の木。「この太さに、200年」は事実と合わないため差し替えるまで停止"
   },
   {
     "account": "hibasoken",

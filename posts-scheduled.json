@@ -656,7 +656,9 @@
       "#大間町",
       "#青森"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18057045941549846",
+    "published_at": "2026-09-10T07:46:46.249Z"
   },
   {
     "account": "hibasoken",

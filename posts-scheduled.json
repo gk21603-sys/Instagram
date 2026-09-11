@@ -1747,8 +1747,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "note"
+    "status": "published",
+    "highlight": "note",
+    "published_media_id": "18636623884020577",
+    "published_at": "2026-09-11T10:26:29.851Z"
   },
   {
     "account": "hibanomori",
@@ -1760,8 +1762,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "note"
+    "status": "published",
+    "highlight": "note",
+    "published_media_id": "18099164087634910",
+    "published_at": "2026-09-11T10:26:29.851Z"
   },
   {
     "account": "hibanomori",
@@ -1773,8 +1777,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "note"
+    "status": "published",
+    "highlight": "note",
+    "published_media_id": "17902395483350630",
+    "published_at": "2026-09-11T10:26:29.851Z"
   },
   {
     "account": "hibanomori",
@@ -1786,8 +1792,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "note"
+    "status": "published",
+    "highlight": "note",
+    "published_media_id": "18143954878576082",
+    "published_at": "2026-09-11T10:26:29.851Z"
   },
   {
     "account": "hibanomori",

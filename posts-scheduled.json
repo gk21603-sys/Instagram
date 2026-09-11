@@ -678,7 +678,9 @@
       "#日比谷公園",
       "#地域産品"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18048292793811475",
+    "published_at": "2026-09-11T05:32:18.099Z"
   },
   {
     "account": "hibanomori",
@@ -739,8 +741,10 @@
       "#まな板",
       "#台所道具"
     ],
-    "status": "approved",
-    "note_id": 44
+    "status": "published",
+    "note_id": 44,
+    "published_media_id": "17969098926158473",
+    "published_at": "2026-09-11T05:32:18.099Z"
   },
   {
     "account": "hibanomori",
@@ -1246,7 +1250,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18156830860499961",
+    "published_at": "2026-09-11T05:32:18.099Z"
   },
   {
     "account": "hibanomori",

@@ -1811,8 +1811,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "place"
+    "status": "published",
+    "highlight": "place",
+    "published_media_id": "17913727800263280",
+    "published_at": "2026-09-12T11:54:09.322Z"
   },
   {
     "account": "hibanomori",
@@ -1824,8 +1826,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "place"
+    "status": "published",
+    "highlight": "place",
+    "published_media_id": "18407233162092773",
+    "published_at": "2026-09-12T11:54:09.322Z"
   },
   {
     "account": "hibanomori",
@@ -1837,8 +1841,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "place"
+    "status": "published",
+    "highlight": "place",
+    "published_media_id": "18096431966530938",
+    "published_at": "2026-09-12T11:54:09.322Z"
   },
   {
     "account": "hibanomori",
@@ -1850,8 +1856,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "place"
+    "status": "published",
+    "highlight": "place",
+    "published_media_id": "18204037879370887",
+    "published_at": "2026-09-12T11:54:09.322Z"
   },
   {
     "account": "hibanomori",
@@ -1863,8 +1871,10 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved",
-    "highlight": "place"
+    "status": "published",
+    "highlight": "place",
+    "published_media_id": "18112259809838647",
+    "published_at": "2026-09-12T11:54:09.322Z"
   },
   {
     "account": "hibanomori",

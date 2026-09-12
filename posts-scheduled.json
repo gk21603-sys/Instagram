@@ -763,7 +763,9 @@
       "#青森",
       "#大間まぐろ"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18629836462021972",
+    "published_at": "2026-09-12T07:35:27.816Z"
   },
   {
     "account": "hibanomori",
@@ -1264,7 +1266,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17902358847589674",
+    "published_at": "2026-09-12T07:35:27.816Z"
   },
   {
     "account": "hibanomori",

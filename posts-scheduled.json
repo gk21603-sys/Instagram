@@ -262,7 +262,9 @@
       "#大間町",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18070696367742548",
+    "published_at": "2026-09-13T05:34:35.646Z"
   },
   {
     "account": "hibasoken",
@@ -784,8 +786,10 @@
       "#精油",
       "#ヒバ油"
     ],
-    "status": "approved",
-    "note_id": 48
+    "status": "published",
+    "note_id": 48,
+    "published_media_id": "18174917320448304",
+    "published_at": "2026-09-13T05:34:35.646Z"
   },
   {
     "account": "hibanomori",
@@ -1280,7 +1284,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17905076487330024",
+    "published_at": "2026-09-13T05:34:35.646Z"
   },
   {
     "account": "hibanomori",

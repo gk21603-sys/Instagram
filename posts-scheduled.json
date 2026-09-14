@@ -1960,7 +1960,9 @@
       "#大間町",
       "#ブランド"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17925519096184353",
+    "published_at": "2026-09-14T05:39:30.763Z"
   },
   {
     "account": "hibanomori",
@@ -1972,7 +1974,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18075249398420135",
+    "published_at": "2026-09-14T05:39:30.763Z"
   },
   {
     "account": "hibanomori",

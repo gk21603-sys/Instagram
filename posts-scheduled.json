@@ -808,8 +808,10 @@
       "#ヒバ水",
       "#芳香蒸留水"
     ],
-    "status": "approved",
-    "note_id": 36
+    "status": "published",
+    "note_id": 36,
+    "published_media_id": "18339278146255434",
+    "published_at": "2026-09-15T05:41:13.148Z"
   },
   {
     "account": "hibanomori",
@@ -1298,7 +1300,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18405541102093528",
+    "published_at": "2026-09-15T05:41:13.148Z"
   },
   {
     "account": "hibanomori",

@@ -704,7 +704,9 @@
       "#大間町",
       "#青森"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18140203681614443",
+    "published_at": "2026-09-17T07:02:10.149Z"
   },
   {
     "account": "hibanomori",
@@ -854,8 +856,10 @@
       "#お風呂時間",
       "#バスタイム"
     ],
-    "status": "approved",
-    "note_id": 68
+    "status": "published",
+    "note_id": 68,
+    "published_media_id": "18124334521857394",
+    "published_at": "2026-09-17T07:02:10.149Z"
   },
   {
     "account": "hibanomori",
@@ -1332,7 +1336,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18107622191177431",
+    "published_at": "2026-09-17T07:02:10.149Z"
   },
   {
     "account": "hibanomori",

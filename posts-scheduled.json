@@ -879,7 +879,9 @@
       "#大間フェリー",
       "#津軽海峡"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18042236255820842",
+    "published_at": "2026-09-19T05:24:36.321Z"
   },
   {
     "account": "hibanomori",
@@ -1350,7 +1352,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18036527282838027",
+    "published_at": "2026-09-19T05:24:36.321Z"
   },
   {
     "account": "hibanomori",

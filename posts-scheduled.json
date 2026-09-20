@@ -302,7 +302,9 @@
       "#ひばの源水",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17897718066602795",
+    "published_at": "2026-09-20T05:37:21.220Z"
   },
   {
     "account": "hibasoken",
@@ -900,8 +902,10 @@
       "#ヒバ油",
       "#暮らしの香り"
     ],
-    "status": "approved",
-    "note_id": 33
+    "status": "published",
+    "note_id": 33,
+    "published_media_id": "17964312339193037",
+    "published_at": "2026-09-20T05:37:21.220Z"
   },
   {
     "account": "hibanomori",
@@ -1366,7 +1370,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17963438126982063",
+    "published_at": "2026-09-20T05:37:21.220Z"
   },
   {
     "account": "hibanomori",

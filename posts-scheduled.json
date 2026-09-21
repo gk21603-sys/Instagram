@@ -924,8 +924,10 @@
       "#天然林",
       "#青森の森"
     ],
-    "status": "approved",
-    "note_id": 52
+    "status": "published",
+    "note_id": 52,
+    "published_media_id": "18101801276198633",
+    "published_at": "2026-09-21T05:47:19.594Z"
   },
   {
     "account": "hibanomori",
@@ -1384,7 +1386,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18117456838768515",
+    "published_at": "2026-09-21T05:47:19.594Z"
   },
   {
     "account": "hibanomori",

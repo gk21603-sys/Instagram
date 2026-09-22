@@ -946,8 +946,9 @@
       "#香り",
       "#正直に"
     ],
-    "status": "approved",
-    "note_id": 49
+    "status": "error",
+    "note_id": 49,
+    "error_message": "Graph API error: {\"message\":\"The token has expired on Monday, 21-Sep-26 02:08:13 PDT. The current time is Monday, 21-Sep-26 22:44:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AerTXCZLYln5u0nuL28moeI\"}"
   },
   {
     "account": "hibanomori",
@@ -1400,7 +1401,8 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "error",
+    "error_message": "Graph API error: {\"message\":\"The token has expired on Monday, 21-Sep-26 02:08:13 PDT. The current time is Monday, 21-Sep-26 22:44:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Ai5EPV2QxaH5zttu1miWs5W\"}"
   },
   {
     "account": "hibanomori",

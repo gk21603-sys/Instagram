@@ -323,7 +323,9 @@
       "#長く使う",
       "#ヒバ総合研究所"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18150139312537261",
+    "published_at": "2026-09-23T03:02:33.311Z"
   },
   {
     "account": "hibanomori",
@@ -968,7 +970,9 @@
       "#大間町",
       "#商店街"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18088127798242638",
+    "published_at": "2026-09-23T03:02:33.311Z"
   },
   {
     "account": "hibanomori",
@@ -1414,7 +1418,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17958819468227368",
+    "published_at": "2026-09-23T03:02:33.311Z"
   },
   {
     "account": "hibanomori",

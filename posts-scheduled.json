@@ -933,7 +933,7 @@
   },
   {
     "account": "hibanomori",
-    "publish_at": "2026-09-22T12:00:00+09:00",
+    "publish_at": "2026-09-23T12:00:00+09:00",
     "type": "image",
     "pillar": "E",
     "images": [
@@ -948,9 +948,10 @@
       "#香り",
       "#正直に"
     ],
-    "status": "error",
+    "status": "published",
     "note_id": 49,
-    "error_message": "Graph API error: {\"message\":\"The token has expired on Monday, 21-Sep-26 02:08:13 PDT. The current time is Monday, 21-Sep-26 22:44:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"AerTXCZLYln5u0nuL28moeI\"}"
+    "published_media_id": "18130565722687721",
+    "published_at": "2026-09-23T03:17:54.926Z"
   },
   {
     "account": "hibanomori",
@@ -1397,7 +1398,7 @@
   },
   {
     "account": "hibanomori",
-    "publish_at": "2026-09-22T12:00:00+09:00",
+    "publish_at": "2026-09-23T12:00:00+09:00",
     "type": "story",
     "pillar": "S",
     "images": [
@@ -1405,8 +1406,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "error",
-    "error_message": "Graph API error: {\"message\":\"The token has expired on Monday, 21-Sep-26 02:08:13 PDT. The current time is Monday, 21-Sep-26 22:44:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"fbtrace_id\":\"Ai5EPV2QxaH5zttu1miWs5W\"}"
+    "status": "published",
+    "published_media_id": "18113037827117696",
+    "published_at": "2026-09-23T03:17:54.926Z"
   },
   {
     "account": "hibanomori",

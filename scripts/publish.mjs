@@ -17,6 +17,11 @@ const IG_IDS = {
   hibasoken: process.env.IG_USER_ID_HIBASOKEN,
 };
 
+// 位置情報（ジオタグ）。FacebookページIDで指定する。
+// 投稿ごとに "location_id" があればそれを優先し、なければこの既定値を使う。
+// 緯度経度を持たないページを指定するとコンテナ作成時にエラーになる。
+const DEFAULT_LOCATION_ID = process.env.DEFAULT_LOCATION_ID || '';
+
 const REPO = process.env.GITHUB_REPOSITORY || 'gk21603-sys/Instagram';
 const BRANCH = process.env.GITHUB_REF_NAME || 'main';
 const IMAGE_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
@@ -75,6 +80,12 @@ function buildCaption(post) {
   return [post.caption, hashtags].filter(Boolean).join('\n\n');
 }
 
+// フィード投稿にだけ付く。ストーリーズはAPIから位置情報を付けられない。
+function locationParams(post) {
+  const id = post.location_id || DEFAULT_LOCATION_ID;
+  return id ? { location_id: String(id) } : {};
+}
+
 async function publishPost(post) {
   const igUserId = IG_IDS[post.account];
   if (!igUserId) {
@@ -82,12 +93,14 @@ async function publishPost(post) {
   }
 
   const caption = buildCaption(post);
+  const loc = locationParams(post);
 
   // 単一画像
   if (post.type === 'image' && post.images.length === 1) {
     const container = await graphPost(`${igUserId}/media`, {
       image_url: IMAGE_BASE + post.images[0],
       caption,
+      ...loc,
     });
     await waitUntilFinished(container.id);
     const publish = await graphPost(`${igUserId}/media_publish`, {
@@ -111,6 +124,7 @@ async function publishPost(post) {
       media_type: 'CAROUSEL',
       children: childIds.join(','),
       caption,
+      ...loc,
     });
     await waitUntilFinished(container.id);
     const publish = await graphPost(`${igUserId}/media_publish`, {
@@ -120,7 +134,7 @@ async function publishPost(post) {
   }
 
   // ストーリーズ（画像1枚 or 動画1本）
-  // 2023年5月からContent Publishing APIで公開可能。スタンプ・リンクはAPIから付けられない
+  // 2023年5月からContent Publishing APIで公開可能。スタンプ・リンク・位置情報はAPIから付けられない
   if (post.type === 'story') {
     const src = post.images[0];
     const isVideo = /\.(mp4|mov)$/i.test(src);
@@ -141,6 +155,7 @@ async function publishPost(post) {
       media_type: 'REELS',
       video_url: IMAGE_BASE + post.images[0],
       caption,
+      ...loc,
     });
     await waitUntilFinished(container.id);
     const publish = await graphPost(`${igUserId}/media_publish`, {

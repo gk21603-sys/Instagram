@@ -20,7 +20,7 @@ const IG_IDS = {
 // 位置情報（ジオタグ）。FacebookページIDで指定する。
 // 投稿ごとに "location_id" があればそれを優先し、なければこの既定値を使う。
 // 緯度経度を持たないページを指定するとコンテナ作成時にエラーになる。
-const DEFAULT_LOCATION_ID = process.env.DEFAULT_LOCATION_ID || '';
+const DEFAULT_LOCATION_ID = process.env.DEFAULT_LOCATION_ID || '445290605556556'; // 大間町
 
 const REPO = process.env.GITHUB_REPOSITORY || 'gk21603-sys/Instagram';
 const BRANCH = process.env.GITHUB_REF_NAME || 'main';

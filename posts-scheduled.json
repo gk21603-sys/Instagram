@@ -992,8 +992,10 @@
       "#ヒバ油",
       "#手作りスプレー"
     ],
-    "status": "approved",
-    "note_id": 58
+    "status": "published",
+    "note_id": 58,
+    "published_media_id": "18167036314474835",
+    "published_at": "2026-09-24T05:45:43.943Z"
   },
   {
     "account": "hibanomori",
@@ -1434,7 +1436,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17894247990674074",
+    "published_at": "2026-09-24T05:45:43.943Z"
   },
   {
     "account": "hibanomori",

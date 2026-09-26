@@ -1036,8 +1036,10 @@
       "#ハッカ油",
       "#和精油"
     ],
-    "status": "approved",
-    "note_id": 62
+    "status": "published",
+    "note_id": 62,
+    "published_media_id": "17950576308292432",
+    "published_at": "2026-09-26T03:03:42.243Z"
   },
   {
     "account": "hibanomori",
@@ -1466,7 +1468,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18111441896585853",
+    "published_at": "2026-09-26T03:03:42.243Z"
   },
   {
     "account": "hibanomori",

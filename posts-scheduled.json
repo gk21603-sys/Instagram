@@ -1102,8 +1102,10 @@
       "#木の話",
       "#青森ひば"
     ],
-    "status": "approved",
-    "note_id": 30
+    "status": "published",
+    "note_id": 30,
+    "published_media_id": "18129626053776472",
+    "published_at": "2026-09-29T07:46:34.728Z"
   },
   {
     "account": "hibanomori",
@@ -1514,7 +1516,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18064396874786397",
+    "published_at": "2026-09-29T07:46:34.728Z"
   },
   {
     "account": "hibanomori",

@@ -1125,7 +1125,9 @@
       "#大間町",
       "#下北半島"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18093995396148207",
+    "published_at": "2026-09-30T03:33:14.785Z"
   },
   {
     "account": "hibanomori",
@@ -1530,7 +1532,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18123751108900847",
+    "published_at": "2026-09-30T03:33:14.785Z"
   },
   {
     "account": "hibanomori",

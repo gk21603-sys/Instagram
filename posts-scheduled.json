@@ -1146,8 +1146,10 @@
       "#精油",
       "#エッセンシャルオイル"
     ],
-    "status": "approved",
-    "note_id": 73
+    "status": "published",
+    "note_id": 73,
+    "published_media_id": "18103610543358844",
+    "published_at": "2026-10-01T08:09:32.660Z"
   },
   {
     "account": "hibanomori",
@@ -1546,7 +1548,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17886508032685653",
+    "published_at": "2026-10-01T08:09:32.660Z"
   },
   {
     "account": "hibanomori",

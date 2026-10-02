@@ -1168,8 +1168,10 @@
       "#精油",
       "#ヒバ油"
     ],
-    "status": "approved",
-    "note_id": 47
+    "status": "published",
+    "note_id": 47,
+    "published_media_id": "17910559047539184",
+    "published_at": "2026-10-02T06:34:09.515Z"
   },
   {
     "account": "hibanomori",
@@ -1562,7 +1564,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17923961241204859",
+    "published_at": "2026-10-02T06:34:09.515Z"
   },
   {
     "account": "hibanomori",

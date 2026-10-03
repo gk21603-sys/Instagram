@@ -1190,8 +1190,10 @@
       "#ヒバ油",
       "#化粧品"
     ],
-    "status": "approved",
-    "note_id": 70
+    "status": "published",
+    "note_id": 70,
+    "published_media_id": "18142833040587394",
+    "published_at": "2026-10-03T07:26:59.060Z"
   },
   {
     "account": "hibanomori",
@@ -1578,7 +1580,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18133865788656855",
+    "published_at": "2026-10-03T07:26:59.060Z"
   },
   {
     "account": "hibanomori",

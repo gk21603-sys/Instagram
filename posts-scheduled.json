@@ -1213,7 +1213,9 @@
       "#大間町",
       "#まちの風景"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18110860289150531",
+    "published_at": "2026-10-04T09:14:36.521Z"
   },
   {
     "account": "hibanomori",
@@ -1594,7 +1596,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18105539393349190",
+    "published_at": "2026-10-04T09:14:36.521Z"
   },
   {
     "account": "hibanomori",

@@ -1256,8 +1256,10 @@
       "#香りと記憶",
       "#青森"
     ],
-    "status": "approved",
-    "note_id": 32
+    "status": "published",
+    "note_id": 32,
+    "published_media_id": "17980576344121118",
+    "published_at": "2026-10-06T04:22:39.438Z"
   },
   {
     "account": "hibanomori",
@@ -1626,7 +1628,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18357206509168985",
+    "published_at": "2026-10-06T04:22:39.438Z"
   },
   {
     "account": "hibanomori",

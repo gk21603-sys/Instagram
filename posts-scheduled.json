@@ -1279,8 +1279,10 @@
       "#ロウリュ",
       "#ヒバ水"
     ],
-    "status": "approved",
-    "note_id": 87
+    "status": "published",
+    "note_id": 87,
+    "published_media_id": "18066391568523373",
+    "published_at": "2026-10-07T08:18:47.417Z"
   },
   {
     "account": "hibanomori",
@@ -1642,7 +1644,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17907176205332032",
+    "published_at": "2026-10-07T08:18:47.417Z"
   },
   {
     "account": "hibanomori",

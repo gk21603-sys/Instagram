@@ -2233,7 +2233,9 @@
       "#浴用化粧液",
       "#全成分表示"
     ],
-    "status": "approved",
-    "note_id": 86
+    "status": "published",
+    "note_id": 86,
+    "published_media_id": "17973166926166263",
+    "published_at": "2026-10-09T08:19:47.993Z"
   }
 ]

@@ -34,12 +34,14 @@ def font(path, size):
 
 
 CLOSE = "。、）」』！？・ー"
+NUM = "0123456789〜～%％.,"
 
 
 def wrap(text, n):
     """禁則付きの折り返し。
     - 文中の改行（\\n）はその位置で改行する（見出しを読点で区切りたいとき用）
-    - 行頭に来た句読点・閉じ括弧は前の行の末尾へ送る（ぶら下げ）"""
+    - 行頭に来た句読点・閉じ括弧は前の行の末尾へ送る（ぶら下げ）
+    - 「3〜5滴」の数字部分は途中で改行しない"""
     if not text:
         return []
     out = []
@@ -47,7 +49,8 @@ def wrap(text, n):
         rest = part
         while rest:
             line, rest = rest[:n], rest[n:]
-            while rest and rest[0] in CLOSE:
+            # 行頭禁則と、「3〜5」「100%」のような数字のかたまりを行またぎで割らない
+            while rest and (rest[0] in CLOSE or (rest[0] in NUM + "滴枚個本回年分" and line[-1] in NUM)):
                 line, rest = line + rest[0], rest[1:]
             out.append(line)
     return out

@@ -33,29 +33,24 @@ def font(path, size):
     return ImageFont.truetype(path, size)
 
 
+CLOSE = "。、）」』！？・ー"
+
+
 def wrap(text, n):
-    """行末に句読点だけが取り残されるのを防ぐ簡易禁則付きの折り返し。"""
+    """禁則付きの折り返し。
+    - 文中の改行（\\n）はその位置で改行する（見出しを読点で区切りたいとき用）
+    - 行頭に来た句読点・閉じ括弧は前の行の末尾へ送る（ぶら下げ）"""
     if not text:
         return []
-    lines = textwrap.wrap(text, n)
     out = []
-    for line in lines:
-        if out and line.strip() and all(c in "。、）」！？" for c in line):
-            out[-1] += line
-        else:
+    for part in text.split("\n"):
+        rest = part
+        while rest:
+            line, rest = rest[:n], rest[n:]
+            while rest and rest[0] in CLOSE:
+                line, rest = line + rest[0], rest[1:]
             out.append(line)
-    fixed = []
-    for line in out:
-        while len(line) > n and line[n] in "。、）」！？":
-            n_line, line = line[: n + 1], line[n + 1 :]
-            fixed.append(n_line)
-            break
-        else:
-            fixed.append(line)
-            continue
-        if line:
-            fixed.append(line)
-    return fixed
+    return out
 
 
 BASE_URL = "https://www.aomori-hiba.com/images/"

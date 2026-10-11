@@ -110,13 +110,17 @@ async function main() {
   writeFileSync(OUT, JSON.stringify(data, null, 2) + '\n');
   const empty = Object.values(data.media).filter((m) => !Object.keys(m.metrics).length).length;
   console.log(`インサイト取得: ${fetched}件（数字が空のもの ${empty}件）`);
+  // 失敗しても記録は残す（Actionsのログはこの環境から読めないため、原因をファイルと注釈に出す）
+  data.last_error = lastError;
+  writeFileSync(OUT, JSON.stringify(data, null, 2) + '\n');
+  if (lastError) console.log(`::warning::インサイト取得で一部エラー: ${lastError}`);
   if (fetched && empty === Object.keys(data.media).length) {
-    console.error(`すべて取得できませんでした。トークンの権限（instagram_manage_insights）を確認してください。最後のエラー: ${lastError}`);
-    process.exit(1);
+    console.log(`::error::インサイトをすべて取得できませんでした（トークンの権限 instagram_manage_insights を確認）。最後のエラー: ${lastError}`);
   }
 }
 
 main().catch((e) => {
+  console.log(`::error::インサイト収集が停止: ${e.message}`);
   console.error(e);
   process.exit(1);
 });

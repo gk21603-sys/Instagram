@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '40 */6 * * *'   # 6時間ごと（ストーリーの数字は公開後24時間しか取れないため）
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - scripts/collect_insights.mjs
+      - .github/workflows/collect-insights.yml
 
 permissions:
   contents: write

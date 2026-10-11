@@ -2262,7 +2262,9 @@
       "#クローゼット収納",
       "#青森ヒバ精油"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18103386920373072",
+    "published_at": "2026-10-11T08:09:19.158Z"
   },
   {
     "account": "hibanomori",
@@ -2274,7 +2276,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18103582208198475",
+    "published_at": "2026-10-11T08:09:19.158Z"
   },
   {
     "account": "hibanomori",

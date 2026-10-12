@@ -1122,13 +1122,15 @@
   "followers": {
     "hibanomori": {
       "2026-10-11": 32,
-      "2026-10-12": 32
+      "2026-10-12": 32,
+      "2026-10-13": 35
     },
     "hibasoken": {
       "2026-10-11": 18,
-      "2026-10-12": 18
+      "2026-10-12": 18,
+      "2026-10-13": 18
     }
   },
-  "fetched_at": "2026-10-12T06:30:54.180Z",
+  "fetched_at": "2026-10-12T16:06:13.062Z",
   "last_error": "(#10) Application does not have permission for this action"
 }

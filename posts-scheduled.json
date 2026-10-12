@@ -2304,7 +2304,9 @@
       "#漁港",
       "#漁船"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18024603548920435",
+    "published_at": "2026-10-12T03:50:39.265Z"
   },
   {
     "account": "hibanomori",
@@ -2316,7 +2318,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17910807402517272",
+    "published_at": "2026-10-12T03:50:39.265Z"
   },
   {
     "account": "hibanomori",

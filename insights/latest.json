@@ -1081,6 +1081,42 @@
       "title": "",
       "metrics": {},
       "updated_at": null
+    },
+    "18024603548920435": {
+      "account": "hibanomori",
+      "date": "2026-10-12",
+      "published_at": "2026-10-12T03:50:39.265Z",
+      "type": "carousel",
+      "pillar": "O",
+      "format": "O-photo",
+      "exp": "tags:base4+type3",
+      "note_id": null,
+      "hashtags": [
+        "#ひばの森",
+        "#青森ひば",
+        "#ヒバ",
+        "#大間町",
+        "#大間マグロ",
+        "#漁港",
+        "#漁船"
+      ],
+      "title": "マグロの町で、木の仕事をしています",
+      "metrics": {},
+      "updated_at": null
+    },
+    "17910807402517272": {
+      "account": "hibanomori",
+      "date": "2026-10-12",
+      "published_at": "2026-10-12T03:50:39.265Z",
+      "type": "story",
+      "pillar": "S",
+      "format": null,
+      "exp": null,
+      "note_id": null,
+      "hashtags": [],
+      "title": "",
+      "metrics": {},
+      "updated_at": null
     }
   },
   "followers": {
@@ -1093,6 +1129,6 @@
       "2026-10-12": 18
     }
   },
-  "fetched_at": "2026-10-11T22:28:37.492Z",
+  "fetched_at": "2026-10-12T06:30:54.180Z",
   "last_error": "(#10) Application does not have permission for this action"
 }

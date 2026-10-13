@@ -2346,7 +2346,9 @@
       "#柔軟剤",
       "#青森ヒバ精油"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18104778391998394",
+    "published_at": "2026-10-13T09:59:10.372Z"
   },
   {
     "account": "hibanomori",
@@ -2358,7 +2360,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18128889223835992",
+    "published_at": "2026-10-13T09:59:10.372Z"
   },
   {
     "account": "hibanomori",

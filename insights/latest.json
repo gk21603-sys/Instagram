@@ -1123,7 +1123,7 @@
     "hibanomori": {
       "2026-10-11": 32,
       "2026-10-12": 32,
-      "2026-10-13": 35
+      "2026-10-13": 36
     },
     "hibasoken": {
       "2026-10-11": 18,
@@ -1131,6 +1131,6 @@
       "2026-10-13": 18
     }
   },
-  "fetched_at": "2026-10-12T16:06:13.062Z",
+  "fetched_at": "2026-10-13T01:00:30.004Z",
   "last_error": "(#10) Application does not have permission for this action"
 }

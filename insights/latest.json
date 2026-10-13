@@ -1117,13 +1117,49 @@
       "title": "",
       "metrics": {},
       "updated_at": null
+    },
+    "18104778391998394": {
+      "account": "hibanomori",
+      "date": "2026-10-13",
+      "published_at": "2026-10-13T09:59:10.372Z",
+      "type": "carousel",
+      "pillar": "U",
+      "format": "U-photo",
+      "exp": "tags:base4+type3",
+      "note_id": null,
+      "hashtags": [
+        "#ひばの森",
+        "#青森ひば",
+        "#ヒバ",
+        "#大間町",
+        "#洗濯",
+        "#柔軟剤",
+        "#青森ヒバ精油"
+      ],
+      "title": "いつもの洗濯に、森の香りを足す",
+      "metrics": {},
+      "updated_at": null
+    },
+    "18128889223835992": {
+      "account": "hibanomori",
+      "date": "2026-10-13",
+      "published_at": "2026-10-13T09:59:10.372Z",
+      "type": "story",
+      "pillar": "S",
+      "format": null,
+      "exp": null,
+      "note_id": null,
+      "hashtags": [],
+      "title": "",
+      "metrics": {},
+      "updated_at": null
     }
   },
   "followers": {
     "hibanomori": {
       "2026-10-11": 32,
       "2026-10-12": 32,
-      "2026-10-13": 36
+      "2026-10-13": 38
     },
     "hibasoken": {
       "2026-10-11": 18,
@@ -1131,6 +1167,6 @@
       "2026-10-13": 18
     }
   },
-  "fetched_at": "2026-10-13T01:00:30.004Z",
+  "fetched_at": "2026-10-13T14:35:20.971Z",
   "last_error": "(#10) Application does not have permission for this action"
 }

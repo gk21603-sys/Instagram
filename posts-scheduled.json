@@ -2430,7 +2430,9 @@
       "#ヒバ風呂",
       "#入浴"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18033287198673077",
+    "published_at": "2026-10-15T05:28:33.800Z"
   },
   {
     "account": "hibanomori",
@@ -2442,7 +2444,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17924632593440261",
+    "published_at": "2026-10-15T05:28:33.800Z"
   },
   {
     "account": "hibanomori",

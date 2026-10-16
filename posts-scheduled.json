@@ -2520,7 +2520,9 @@
       "#漁港",
       "#津軽海峡"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18108996728611980",
+    "published_at": "2026-10-16T10:30:08.953Z"
   },
   {
     "account": "hibanomori",

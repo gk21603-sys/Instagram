@@ -2472,7 +2472,9 @@
       "#キッチン",
       "#青森ヒバ精油"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17950150506314212",
+    "published_at": "2026-10-16T05:29:49.038Z"
   },
   {
     "account": "hibanomori",
@@ -2484,7 +2486,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17975121204188933",
+    "published_at": "2026-10-16T05:29:49.038Z"
   },
   {
     "account": "hibanomori",

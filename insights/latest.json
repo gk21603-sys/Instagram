@@ -50,7 +50,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:53:13.350Z"
+      "updated_at": "2026-10-16T16:55:47.457Z"
     },
     "18329356846273426": {
       "account": "hibasoken",
@@ -81,7 +81,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:53:41.099Z"
+      "updated_at": "2026-10-16T16:56:00.791Z"
     },
     "18124111298494907": {
       "account": "hibasoken",
@@ -112,7 +112,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:53:49.799Z"
+      "updated_at": "2026-10-16T16:56:04.515Z"
     },
     "18070696367742548": {
       "account": "hibasoken",
@@ -143,7 +143,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:54:31.878Z"
+      "updated_at": "2026-10-16T16:56:26.044Z"
     },
     "18120634088482829": {
       "account": "hibasoken",
@@ -172,7 +172,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:01.643Z"
+      "updated_at": "2026-10-16T16:56:39.829Z"
     },
     "17897718066602795": {
       "account": "hibasoken",
@@ -203,7 +203,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:36.162Z"
+      "updated_at": "2026-10-16T16:56:57.473Z"
     },
     "18150139312537261": {
       "account": "hibasoken",
@@ -234,7 +234,7 @@
         "profile_visits": 3,
         "follows": 1
       },
-      "updated_at": "2026-10-16T11:55:55.922Z"
+      "updated_at": "2026-10-16T16:57:08.270Z"
     },
     "17906517993469891": {
       "account": "hibanomori",
@@ -395,8 +395,8 @@
       ],
       "title": "本州の、いちばん北。",
       "metrics": {
-        "reach": 41,
-        "views": 102,
+        "reach": 42,
+        "views": 104,
         "saved": 0,
         "shares": 0,
         "likes": 9,
@@ -405,7 +405,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:53:33.913Z"
+      "updated_at": "2026-10-16T16:55:57.566Z"
     },
     "17903000016563751": {
       "account": "hibanomori",
@@ -428,8 +428,8 @@
       ],
       "title": "オンラインストアを開きました。",
       "metrics": {
-        "reach": 37,
-        "views": 94,
+        "reach": 38,
+        "views": 96,
         "saved": 1,
         "shares": 0,
         "likes": 8,
@@ -438,7 +438,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:53:20.636Z"
+      "updated_at": "2026-10-16T16:55:51.025Z"
     },
     "18482760322104884": {
       "account": "hibasoken",
@@ -470,7 +470,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:53:27.604Z"
+      "updated_at": "2026-10-16T16:55:54.478Z"
     },
     "18057045941549846": {
       "account": "hibanomori",
@@ -493,8 +493,8 @@
       ],
       "title": "大間から、日比谷へ。",
       "metrics": {
-        "reach": 60,
-        "views": 151,
+        "reach": 61,
+        "views": 153,
         "saved": 0,
         "shares": 2,
         "likes": 7,
@@ -503,7 +503,7 @@
         "profile_visits": 5,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:54:04.815Z"
+      "updated_at": "2026-10-16T16:56:11.183Z"
     },
     "18048292793811475": {
       "account": "hibasoken",
@@ -535,7 +535,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:54:12.247Z"
+      "updated_at": "2026-10-16T16:56:14.728Z"
     },
     "18140203681614443": {
       "account": "hibanomori",
@@ -557,8 +557,8 @@
       ],
       "title": "明日からです。",
       "metrics": {
-        "reach": 35,
-        "views": 77,
+        "reach": 36,
+        "views": 79,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -567,7 +567,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:16.032Z"
+      "updated_at": "2026-10-16T16:56:47.419Z"
     },
     "18100793930280127": {
       "account": "hibanomori",
@@ -588,8 +588,8 @@
       ],
       "title": "「ヒバの香りって、ヒノキと同じですか」",
       "metrics": {
-        "reach": 38,
-        "views": 98,
+        "reach": 39,
+        "views": 100,
         "saved": 0,
         "shares": 0,
         "likes": 6,
@@ -598,7 +598,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:53:57.027Z"
+      "updated_at": "2026-10-16T16:56:07.866Z"
     },
     "17969098926158473": {
       "account": "hibanomori",
@@ -619,8 +619,8 @@
       ],
       "title": "台所でいちばん濡れる道具。",
       "metrics": {
-        "reach": 55,
-        "views": 102,
+        "reach": 56,
+        "views": 104,
         "saved": 0,
         "shares": 0,
         "likes": 6,
@@ -629,7 +629,7 @@
         "profile_visits": 5,
         "follows": 1
       },
-      "updated_at": "2026-10-16T11:54:17.770Z"
+      "updated_at": "2026-10-16T16:56:18.229Z"
     },
     "18629836462021972": {
       "account": "hibanomori",
@@ -650,8 +650,8 @@
       ],
       "title": "マグロの町で、木の会社をやっています。",
       "metrics": {
-        "reach": 158,
-        "views": 333,
+        "reach": 159,
+        "views": 335,
         "saved": 0,
         "shares": 1,
         "likes": 11,
@@ -660,7 +660,7 @@
         "profile_visits": 22,
         "follows": 1
       },
-      "updated_at": "2026-10-16T11:54:25.135Z"
+      "updated_at": "2026-10-16T16:56:21.616Z"
     },
     "18174917320448304": {
       "account": "hibanomori",
@@ -681,8 +681,8 @@
       ],
       "title": "精油の相手は、三つだけ。",
       "metrics": {
-        "reach": 36,
-        "views": 78,
+        "reach": 37,
+        "views": 80,
         "saved": 0,
         "shares": 0,
         "likes": 4,
@@ -691,7 +691,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:54:38.471Z"
+      "updated_at": "2026-10-16T16:56:29.529Z"
     },
     "18339278146255434": {
       "account": "hibanomori",
@@ -712,8 +712,8 @@
       ],
       "title": "ヒバ油を水で薄めたもの、ではありません。",
       "metrics": {
-        "reach": 32,
-        "views": 66,
+        "reach": 33,
+        "views": 68,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -722,7 +722,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:54:53.608Z"
+      "updated_at": "2026-10-16T16:56:36.424Z"
     },
     "17909954556531419": {
       "account": "hibanomori",
@@ -743,8 +743,8 @@
       ],
       "title": "ヒバとヒノキ、何が違うのか。",
       "metrics": {
-        "reach": 34,
-        "views": 76,
+        "reach": 35,
+        "views": 78,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -753,7 +753,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:09.169Z"
+      "updated_at": "2026-10-16T16:56:43.670Z"
     },
     "18124334521857394": {
       "account": "hibanomori",
@@ -774,8 +774,8 @@
       ],
       "title": "今夜、自分を取り戻す15分。",
       "metrics": {
-        "reach": 33,
-        "views": 72,
+        "reach": 34,
+        "views": 74,
         "saved": 1,
         "shares": 0,
         "likes": 6,
@@ -784,7 +784,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:23.376Z"
+      "updated_at": "2026-10-16T16:56:50.795Z"
     },
     "18042236255820842": {
       "account": "hibanomori",
@@ -806,8 +806,8 @@
       ],
       "title": "函館まで、90分。",
       "metrics": {
-        "reach": 39,
-        "views": 63,
+        "reach": 40,
+        "views": 65,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -816,7 +816,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:29.911Z"
+      "updated_at": "2026-10-16T16:56:53.898Z"
     },
     "17964312339193037": {
       "account": "hibanomori",
@@ -837,8 +837,8 @@
       ],
       "title": "玄関、寝室、お風呂。",
       "metrics": {
-        "reach": 40,
-        "views": 65,
+        "reach": 41,
+        "views": 67,
         "saved": 0,
         "shares": 0,
         "likes": 5,
@@ -847,7 +847,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:42.800Z"
+      "updated_at": "2026-10-16T16:57:01.299Z"
     },
     "18101801276198633": {
       "account": "hibanomori",
@@ -868,8 +868,8 @@
       ],
       "title": "青森ヒバは、植えても育たない。",
       "metrics": {
-        "reach": 30,
-        "views": 53,
+        "reach": 31,
+        "views": 55,
         "saved": 0,
         "shares": 0,
         "likes": 1,
@@ -878,7 +878,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:55:49.427Z"
+      "updated_at": "2026-10-16T16:57:04.729Z"
     },
     "18130565722687721": {
       "account": "hibanomori",
@@ -899,8 +899,8 @@
       ],
       "title": "「ヒバの香りが苦手」という方へ。",
       "metrics": {
-        "reach": 33,
-        "views": 70,
+        "reach": 34,
+        "views": 72,
         "saved": 0,
         "shares": 0,
         "likes": 6,
@@ -909,7 +909,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:01.228Z"
+      "updated_at": "2026-10-16T16:57:12.275Z"
     },
     "18088127798242638": {
       "account": "hibanomori",
@@ -931,8 +931,8 @@
       ],
       "title": "商店街の、曇り空。",
       "metrics": {
-        "reach": 40,
-        "views": 81,
+        "reach": 41,
+        "views": 83,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -941,7 +941,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:07.607Z"
+      "updated_at": "2026-10-16T16:57:16.366Z"
     },
     "18167036314474835": {
       "account": "hibanomori",
@@ -962,8 +962,8 @@
       ],
       "title": "ヒバ油スプレーの、作り方。",
       "metrics": {
-        "reach": 35,
-        "views": 66,
+        "reach": 36,
+        "views": 68,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -972,7 +972,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:15.075Z"
+      "updated_at": "2026-10-16T16:57:19.805Z"
     },
     "18398319487206503": {
       "account": "hibanomori",
@@ -993,8 +993,8 @@
       ],
       "title": "削りくずを、捨てなかった人たち。",
       "metrics": {
-        "reach": 31,
-        "views": 56,
+        "reach": 32,
+        "views": 58,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -1003,7 +1003,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:22.180Z"
+      "updated_at": "2026-10-16T16:57:23.348Z"
     },
     "17950576308292432": {
       "account": "hibanomori",
@@ -1024,8 +1024,8 @@
       ],
       "title": "ヒバ油とハッカ油。",
       "metrics": {
-        "reach": 30,
-        "views": 53,
+        "reach": 31,
+        "views": 55,
         "saved": 0,
         "shares": 0,
         "likes": 4,
@@ -1034,7 +1034,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:27.856Z"
+      "updated_at": "2026-10-16T16:57:26.771Z"
     },
     "18135484540636437": {
       "account": "hibanomori",
@@ -1056,8 +1056,8 @@
       ],
       "title": "町の神社と、木のこと。",
       "metrics": {
-        "reach": 41,
-        "views": 67,
+        "reach": 42,
+        "views": 69,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -1066,7 +1066,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:34.308Z"
+      "updated_at": "2026-10-16T16:57:30.638Z"
     },
     "18054413135575892": {
       "account": "hibanomori",
@@ -1087,8 +1087,8 @@
       ],
       "title": "石ケン素地と、ヒバ油。",
       "metrics": {
-        "reach": 34,
-        "views": 65,
+        "reach": 35,
+        "views": 67,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -1097,7 +1097,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:40.210Z"
+      "updated_at": "2026-10-16T16:57:34.045Z"
     },
     "18129626053776472": {
       "account": "hibanomori",
@@ -1118,8 +1118,8 @@
       ],
       "title": "900年前の建物に使われ、今も台所にある木。",
       "metrics": {
-        "reach": 30,
-        "views": 58,
+        "reach": 31,
+        "views": 60,
         "saved": 0,
         "shares": 0,
         "likes": 1,
@@ -1128,7 +1128,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:46.836Z"
+      "updated_at": "2026-10-16T16:57:37.994Z"
     },
     "18093995396148207": {
       "account": "hibanomori",
@@ -1150,8 +1150,8 @@
       ],
       "title": "風が、ずっと吹いている。",
       "metrics": {
-        "reach": 42,
-        "views": 76,
+        "reach": 44,
+        "views": 79,
         "saved": 0,
         "shares": 0,
         "likes": 7,
@@ -1160,7 +1160,7 @@
         "profile_visits": 2,
         "follows": 1
       },
-      "updated_at": "2026-10-16T11:56:52.697Z"
+      "updated_at": "2026-10-16T16:57:41.827Z"
     },
     "18103610543358844": {
       "account": "hibanomori",
@@ -1181,8 +1181,8 @@
       ],
       "title": "精油、エッセンシャルオイル、アロマオイル。",
       "metrics": {
-        "reach": 31,
-        "views": 59,
+        "reach": 33,
+        "views": 62,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -1191,7 +1191,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:56:58.478Z"
+      "updated_at": "2026-10-16T16:57:45.235Z"
     },
     "17910559047539184": {
       "account": "hibanomori",
@@ -1212,8 +1212,8 @@
       ],
       "title": "香りが強い精油が、良い精油とは限らない。",
       "metrics": {
-        "reach": 29,
-        "views": 69,
+        "reach": 31,
+        "views": 72,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -1222,7 +1222,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:04.306Z"
+      "updated_at": "2026-10-16T16:57:48.590Z"
     },
     "18142833040587394": {
       "account": "hibanomori",
@@ -1243,8 +1243,8 @@
       ],
       "title": "「ヒバ油は、肌に直接つけていいんですか」",
       "metrics": {
-        "reach": 25,
-        "views": 43,
+        "reach": 27,
+        "views": 47,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -1253,7 +1253,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:10.819Z"
+      "updated_at": "2026-10-16T16:57:52.150Z"
     },
     "18110860289150531": {
       "account": "hibanomori",
@@ -1275,8 +1275,8 @@
       ],
       "title": "「おおまはし」。",
       "metrics": {
-        "reach": 38,
-        "views": 69,
+        "reach": 40,
+        "views": 72,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -1285,7 +1285,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:17.135Z"
+      "updated_at": "2026-10-16T16:57:55.658Z"
     },
     "17958031062250907": {
       "account": "hibanomori",
@@ -1306,8 +1306,8 @@
       ],
       "title": "大間の夏は、涼しい。",
       "metrics": {
-        "reach": 23,
-        "views": 40,
+        "reach": 25,
+        "views": 44,
         "saved": 0,
         "shares": 0,
         "likes": 1,
@@ -1316,7 +1316,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:23.576Z"
+      "updated_at": "2026-10-16T16:57:59.261Z"
     },
     "17980576344121118": {
       "account": "hibanomori",
@@ -1337,8 +1337,8 @@
       ],
       "title": "「昔住んでいた青森の家を思い出した」",
       "metrics": {
-        "reach": 31,
-        "views": 60,
+        "reach": 33,
+        "views": 63,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -1347,7 +1347,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:30.036Z"
+      "updated_at": "2026-10-16T16:58:02.685Z"
     },
     "18066391568523373": {
       "account": "hibanomori",
@@ -1369,8 +1369,8 @@
       ],
       "title": "精油を、サウナストーンにかけないでください。",
       "metrics": {
-        "reach": 32,
-        "views": 63,
+        "reach": 34,
+        "views": 66,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -1379,7 +1379,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:36.479Z"
+      "updated_at": "2026-10-16T16:58:06.338Z"
     },
     "17925519096184353": {
       "account": "hibanomori",
@@ -1400,8 +1400,8 @@
       ],
       "title": "この筆文字が、ひばの森のしるしです。",
       "metrics": {
-        "reach": 35,
-        "views": 120,
+        "reach": 39,
+        "views": 126,
         "saved": 0,
         "shares": 0,
         "likes": 7,
@@ -1410,7 +1410,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:54:45.925Z"
+      "updated_at": "2026-10-16T16:56:32.985Z"
     },
     "18076627739708093": {
       "account": "hibanomori",
@@ -1432,8 +1432,8 @@
       ],
       "title": "青森ヒバ精油。",
       "metrics": {
-        "reach": 24,
-        "views": 57,
+        "reach": 27,
+        "views": 61,
         "saved": 0,
         "shares": 0,
         "likes": 5,
@@ -1442,7 +1442,7 @@
         "profile_visits": 3,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:43.009Z"
+      "updated_at": "2026-10-16T16:58:09.506Z"
     },
     "17973166926166263": {
       "account": "hibanomori",
@@ -1464,8 +1464,8 @@
       ],
       "title": "ヒバの入浴剤には、三つの区分があります。",
       "metrics": {
-        "reach": 39,
-        "views": 69,
+        "reach": 41,
+        "views": 72,
         "saved": 0,
         "shares": 0,
         "likes": 4,
@@ -1474,7 +1474,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:49.131Z"
+      "updated_at": "2026-10-16T16:58:13.098Z"
     },
     "18103386920373072": {
       "account": "hibanomori",
@@ -1496,8 +1496,8 @@
       ],
       "title": "衣替えのついでに、クローゼットを木の香りに",
       "metrics": {
-        "reach": 29,
-        "views": 87,
+        "reach": 31,
+        "views": 92,
         "saved": 0,
         "shares": 1,
         "likes": 1,
@@ -1506,7 +1506,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:57:55.401Z"
+      "updated_at": "2026-10-16T16:58:16.186Z"
     },
     "18103582208198475": {
       "account": "hibanomori",
@@ -1542,8 +1542,8 @@
       ],
       "title": "マグロの町で、木の仕事をしています",
       "metrics": {
-        "reach": 218,
-        "views": 419,
+        "reach": 229,
+        "views": 435,
         "saved": 0,
         "shares": 0,
         "likes": 9,
@@ -1552,7 +1552,7 @@
         "profile_visits": 28,
         "follows": 4
       },
-      "updated_at": "2026-10-16T11:58:02.304Z"
+      "updated_at": "2026-10-16T16:58:19.348Z"
     },
     "17910807402517272": {
       "account": "hibanomori",
@@ -1588,8 +1588,8 @@
       ],
       "title": "いつもの洗濯に、森の香りを足す",
       "metrics": {
-        "reach": 26,
-        "views": 80,
+        "reach": 30,
+        "views": 86,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -1598,7 +1598,7 @@
         "profile_visits": 3,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:58:09.426Z"
+      "updated_at": "2026-10-16T16:58:22.645Z"
     },
     "18128889223835992": {
       "account": "hibanomori",
@@ -1634,8 +1634,8 @@
       ],
       "title": "精油とアロマオイル、同じもの？",
       "metrics": {
-        "reach": 21,
-        "views": 64,
+        "reach": 23,
+        "views": 67,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -1644,7 +1644,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:58:15.041Z"
+      "updated_at": "2026-10-16T16:58:25.717Z"
     },
     "18092023994663411": {
       "account": "hibanomori",
@@ -1680,8 +1680,8 @@
       ],
       "title": "木の湯船じゃなくても、湯を木の香りに",
       "metrics": {
-        "reach": 17,
-        "views": 38,
+        "reach": 20,
+        "views": 44,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -1690,7 +1690,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:58:22.547Z"
+      "updated_at": "2026-10-16T16:58:28.771Z"
     },
     "17924632593440261": {
       "account": "hibanomori",
@@ -1733,8 +1733,8 @@
       ],
       "title": "ゴミ箱の底に、コットンを一枚",
       "metrics": {
-        "reach": 11,
-        "views": 34,
+        "reach": 16,
+        "views": 45,
         "saved": 0,
         "shares": 0,
         "likes": 1,
@@ -1743,7 +1743,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:58:28.675Z"
+      "updated_at": "2026-10-16T16:58:32.303Z"
     },
     "17975121204188933": {
       "account": "hibanomori",
@@ -1757,14 +1757,14 @@
       "hashtags": [],
       "title": "",
       "metrics": {
-        "reach": 14,
-        "views": 24,
-        "replies": 0,
+        "reach": 21,
+        "views": 38,
+        "replies": 1,
         "shares": 0,
-        "total_interactions": 2,
-        "navigation": 18
+        "total_interactions": 4,
+        "navigation": 25
       },
-      "updated_at": "2026-10-16T11:58:39.911Z"
+      "updated_at": "2026-10-16T16:58:39.906Z"
     },
     "18108996728611980": {
       "account": "hibanomori",
@@ -1789,17 +1789,17 @@
       ],
       "title": "大間まぐろの季節が、来ています",
       "metrics": {
-        "reach": 40,
-        "views": 77,
+        "reach": 152,
+        "views": 280,
         "saved": 0,
-        "shares": 0,
-        "likes": 4,
+        "shares": 1,
+        "likes": 7,
         "comments": 0,
-        "total_interactions": 4,
-        "profile_visits": 2,
+        "total_interactions": 8,
+        "profile_visits": 10,
         "follows": 0
       },
-      "updated_at": "2026-10-16T11:58:45.720Z"
+      "updated_at": "2026-10-16T16:58:43.289Z"
     }
   },
   "followers": {
@@ -1809,7 +1809,8 @@
       "2026-10-13": 38,
       "2026-10-14": 39,
       "2026-10-15": 39,
-      "2026-10-16": 39
+      "2026-10-16": 39,
+      "2026-10-17": 39
     },
     "hibasoken": {
       "2026-10-11": 18,
@@ -1817,9 +1818,10 @@
       "2026-10-13": 18,
       "2026-10-14": 18,
       "2026-10-15": 18,
-      "2026-10-16": 19
+      "2026-10-16": 19,
+      "2026-10-17": 19
     }
   },
-  "fetched_at": "2026-10-16T11:58:47.416Z",
+  "fetched_at": "2026-10-16T16:58:44.474Z",
   "last_error": "(#100) Tried accessing nonexisting field (insights)"
 }

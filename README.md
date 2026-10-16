@@ -23,6 +23,22 @@ Graph API: POST /{ig-user-id}/media → POST /{ig-user-id}/media_publish
 `https://raw.githubusercontent.com/gk21603-sys/Instagram/main/images/...`
 として直接参照します（このリポジトリが public であることが前提）。
 
+## 使える写真（2026-10-16 更新）
+
+カルーセル・ストーリーの `photo` には、hiba-website の `images/` にある写真をファイル名で指定する
+（`scripts/build_carousels.py` / `build_story_cards.py` が `LOCAL_SRC_DIR` から読む）。
+
+- **自社撮影**（`hiba-` `oma-` `factory-` `plant-` など）を優先する
+- **ストック写真 `stock-*.jpg`** も使ってよい。ただし使えるのは
+  hiba-website の `stock/ledger.json` で `"status": "approved"` のものだけ（Gentaが選んだ48点）。
+  一覧と用途はプロジェクトの「素材ストック 第6便」台帳を見る
+  - 犬・サウナ・寝室・線香、青森の風景（八甲田・岩木山・弘前・十和田・奥入瀬・八戸・龍飛崎・大間の弁天島・ねぶた）
+  - ストック写真を「自社の工場・製品・ヒバ林」として見せない。撮影地が分かるものは、キャプションの地名と合わせる
+  - 雪の針葉樹林など、ヒバ林と誤解される使い方はしない
+- 新しくストック写真を足すときは、hiba-website の `stock/`（Unsplash→Actionsで取り込み）の手順で、
+  Gentaに候補を見せて承認をもらってから取り込む。実写のみ（カメラ情報のないCG・AI風は使わない）、
+  青森・大間・日本から離れすぎない写真に限る
+
 ## 投稿の追加方法
 
 `posts-scheduled.json` に以下の形式でオブジェクトを追加してください。

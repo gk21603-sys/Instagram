@@ -50,7 +50,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:18.182Z"
+      "updated_at": "2026-10-17T04:57:41.847Z"
     },
     "18329356846273426": {
       "account": "hibasoken",
@@ -81,7 +81,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:28.244Z"
+      "updated_at": "2026-10-17T04:57:55.376Z"
     },
     "18124111298494907": {
       "account": "hibasoken",
@@ -112,7 +112,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:31.299Z"
+      "updated_at": "2026-10-17T04:57:59.196Z"
     },
     "18070696367742548": {
       "account": "hibasoken",
@@ -143,7 +143,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:45.631Z"
+      "updated_at": "2026-10-17T04:58:20.008Z"
     },
     "18120634088482829": {
       "account": "hibasoken",
@@ -172,7 +172,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:56.679Z"
+      "updated_at": "2026-10-17T04:58:32.014Z"
     },
     "17897718066602795": {
       "account": "hibasoken",
@@ -203,7 +203,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:11.009Z"
+      "updated_at": "2026-10-17T04:58:49.336Z"
     },
     "18150139312537261": {
       "account": "hibasoken",
@@ -234,7 +234,7 @@
         "profile_visits": 3,
         "follows": 1
       },
-      "updated_at": "2026-10-16T21:42:18.403Z"
+      "updated_at": "2026-10-17T04:58:59.672Z"
     },
     "17906517993469891": {
       "account": "hibanomori",
@@ -405,7 +405,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:25.898Z"
+      "updated_at": "2026-10-17T04:57:51.589Z"
     },
     "17903000016563751": {
       "account": "hibanomori",
@@ -438,7 +438,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:21.178Z"
+      "updated_at": "2026-10-17T04:57:45.149Z"
     },
     "18482760322104884": {
       "account": "hibasoken",
@@ -470,7 +470,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:23.583Z"
+      "updated_at": "2026-10-17T04:57:48.295Z"
     },
     "18057045941549846": {
       "account": "hibanomori",
@@ -503,7 +503,7 @@
         "profile_visits": 5,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:36.142Z"
+      "updated_at": "2026-10-17T04:58:05.613Z"
     },
     "18048292793811475": {
       "account": "hibasoken",
@@ -535,7 +535,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:38.392Z"
+      "updated_at": "2026-10-17T04:58:08.710Z"
     },
     "18140203681614443": {
       "account": "hibanomori",
@@ -557,8 +557,8 @@
       ],
       "title": "明日からです。",
       "metrics": {
-        "reach": 37,
-        "views": 80,
+        "reach": 38,
+        "views": 82,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -567,7 +567,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:03.593Z"
+      "updated_at": "2026-10-17T04:58:38.888Z"
     },
     "18100793930280127": {
       "account": "hibanomori",
@@ -598,7 +598,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:33.553Z"
+      "updated_at": "2026-10-17T04:58:02.518Z"
     },
     "17969098926158473": {
       "account": "hibanomori",
@@ -629,7 +629,7 @@
         "profile_visits": 5,
         "follows": 1
       },
-      "updated_at": "2026-10-16T21:41:40.719Z"
+      "updated_at": "2026-10-17T04:58:12.857Z"
     },
     "18629836462021972": {
       "account": "hibanomori",
@@ -660,7 +660,7 @@
         "profile_visits": 22,
         "follows": 1
       },
-      "updated_at": "2026-10-16T21:41:43.301Z"
+      "updated_at": "2026-10-17T04:58:15.977Z"
     },
     "18174917320448304": {
       "account": "hibanomori",
@@ -691,7 +691,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:48.228Z"
+      "updated_at": "2026-10-17T04:58:22.973Z"
     },
     "18339278146255434": {
       "account": "hibanomori",
@@ -712,8 +712,8 @@
       ],
       "title": "ヒバ油を水で薄めたもの、ではありません。",
       "metrics": {
-        "reach": 34,
-        "views": 69,
+        "reach": 35,
+        "views": 70,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -722,7 +722,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:53.311Z"
+      "updated_at": "2026-10-17T04:58:28.901Z"
     },
     "17909954556531419": {
       "account": "hibanomori",
@@ -743,8 +743,8 @@
       ],
       "title": "ヒバとヒノキ、何が違うのか。",
       "metrics": {
-        "reach": 36,
-        "views": 79,
+        "reach": 38,
+        "views": 82,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -753,7 +753,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:59.223Z"
+      "updated_at": "2026-10-17T04:58:35.296Z"
     },
     "18124334521857394": {
       "account": "hibanomori",
@@ -784,7 +784,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:06.529Z"
+      "updated_at": "2026-10-17T04:58:42.225Z"
     },
     "18042236255820842": {
       "account": "hibanomori",
@@ -806,8 +806,8 @@
       ],
       "title": "函館まで、90分。",
       "metrics": {
-        "reach": 41,
-        "views": 66,
+        "reach": 42,
+        "views": 67,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -816,7 +816,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:08.759Z"
+      "updated_at": "2026-10-17T04:58:46.298Z"
     },
     "17964312339193037": {
       "account": "hibanomori",
@@ -847,7 +847,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:13.494Z"
+      "updated_at": "2026-10-17T04:58:52.666Z"
     },
     "18101801276198633": {
       "account": "hibanomori",
@@ -878,7 +878,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:15.585Z"
+      "updated_at": "2026-10-17T04:58:56.336Z"
     },
     "18130565722687721": {
       "account": "hibanomori",
@@ -909,7 +909,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:20.616Z"
+      "updated_at": "2026-10-17T04:59:02.666Z"
     },
     "18088127798242638": {
       "account": "hibanomori",
@@ -941,7 +941,7 @@
         "profile_visits": 2,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:23.076Z"
+      "updated_at": "2026-10-17T04:59:06.793Z"
     },
     "18167036314474835": {
       "account": "hibanomori",
@@ -972,7 +972,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:25.506Z"
+      "updated_at": "2026-10-17T04:59:10.778Z"
     },
     "18398319487206503": {
       "account": "hibanomori",
@@ -1003,7 +1003,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:30.670Z"
+      "updated_at": "2026-10-17T04:59:13.955Z"
     },
     "17950576308292432": {
       "account": "hibanomori",
@@ -1034,7 +1034,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:33.178Z"
+      "updated_at": "2026-10-17T04:59:17.434Z"
     },
     "18135484540636437": {
       "account": "hibanomori",
@@ -1066,7 +1066,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:35.578Z"
+      "updated_at": "2026-10-17T04:59:20.337Z"
     },
     "18054413135575892": {
       "account": "hibanomori",
@@ -1097,7 +1097,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:37.911Z"
+      "updated_at": "2026-10-17T04:59:24.597Z"
     },
     "18129626053776472": {
       "account": "hibanomori",
@@ -1128,7 +1128,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:40.600Z"
+      "updated_at": "2026-10-17T04:59:27.690Z"
     },
     "18093995396148207": {
       "account": "hibanomori",
@@ -1160,7 +1160,7 @@
         "profile_visits": 2,
         "follows": 1
       },
-      "updated_at": "2026-10-16T21:42:43.063Z"
+      "updated_at": "2026-10-17T04:59:30.608Z"
     },
     "18103610543358844": {
       "account": "hibanomori",
@@ -1191,7 +1191,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:45.567Z"
+      "updated_at": "2026-10-17T04:59:33.678Z"
     },
     "17910559047539184": {
       "account": "hibanomori",
@@ -1222,7 +1222,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:47.963Z"
+      "updated_at": "2026-10-17T04:59:37.384Z"
     },
     "18142833040587394": {
       "account": "hibanomori",
@@ -1253,7 +1253,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:50.424Z"
+      "updated_at": "2026-10-17T04:59:40.653Z"
     },
     "18110860289150531": {
       "account": "hibanomori",
@@ -1285,7 +1285,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:53.282Z"
+      "updated_at": "2026-10-17T04:59:43.860Z"
     },
     "17958031062250907": {
       "account": "hibanomori",
@@ -1316,7 +1316,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:56.277Z"
+      "updated_at": "2026-10-17T04:59:47.084Z"
     },
     "17980576344121118": {
       "account": "hibanomori",
@@ -1347,7 +1347,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:42:58.851Z"
+      "updated_at": "2026-10-17T04:59:52.461Z"
     },
     "18066391568523373": {
       "account": "hibanomori",
@@ -1369,8 +1369,8 @@
       ],
       "title": "精油を、サウナストーンにかけないでください。",
       "metrics": {
-        "reach": 35,
-        "views": 67,
+        "reach": 36,
+        "views": 68,
         "saved": 0,
         "shares": 0,
         "likes": 3,
@@ -1379,7 +1379,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:01.383Z"
+      "updated_at": "2026-10-17T04:59:55.646Z"
     },
     "17925519096184353": {
       "account": "hibanomori",
@@ -1400,8 +1400,8 @@
       ],
       "title": "この筆文字が、ひばの森のしるしです。",
       "metrics": {
-        "reach": 39,
-        "views": 126,
+        "reach": 41,
+        "views": 131,
         "saved": 0,
         "shares": 0,
         "likes": 7,
@@ -1410,7 +1410,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:41:50.856Z"
+      "updated_at": "2026-10-17T04:58:26.035Z"
     },
     "18076627739708093": {
       "account": "hibanomori",
@@ -1432,17 +1432,17 @@
       ],
       "title": "青森ヒバ精油。",
       "metrics": {
-        "reach": 27,
-        "views": 61,
+        "reach": 28,
+        "views": 66,
         "saved": 0,
         "shares": 0,
         "likes": 5,
         "comments": 0,
         "total_interactions": 5,
-        "profile_visits": 3,
+        "profile_visits": 4,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:03.701Z"
+      "updated_at": "2026-10-17T04:59:59.803Z"
     },
     "17973166926166263": {
       "account": "hibanomori",
@@ -1464,8 +1464,8 @@
       ],
       "title": "ヒバの入浴剤には、三つの区分があります。",
       "metrics": {
-        "reach": 42,
-        "views": 73,
+        "reach": 43,
+        "views": 74,
         "saved": 0,
         "shares": 0,
         "likes": 4,
@@ -1474,7 +1474,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:06.045Z"
+      "updated_at": "2026-10-17T05:00:03.801Z"
     },
     "18103386920373072": {
       "account": "hibanomori",
@@ -1496,8 +1496,8 @@
       ],
       "title": "衣替えのついでに、クローゼットを木の香りに",
       "metrics": {
-        "reach": 31,
-        "views": 92,
+        "reach": 32,
+        "views": 93,
         "saved": 0,
         "shares": 1,
         "likes": 1,
@@ -1506,7 +1506,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:08.221Z"
+      "updated_at": "2026-10-17T05:00:07.240Z"
     },
     "18103582208198475": {
       "account": "hibanomori",
@@ -1542,17 +1542,17 @@
       ],
       "title": "マグロの町で、木の仕事をしています",
       "metrics": {
-        "reach": 233,
-        "views": 440,
+        "reach": 244,
+        "views": 454,
         "saved": 0,
         "shares": 0,
-        "likes": 9,
+        "likes": 10,
         "comments": 0,
-        "total_interactions": 9,
+        "total_interactions": 10,
         "profile_visits": 29,
         "follows": 4
       },
-      "updated_at": "2026-10-16T21:43:10.754Z"
+      "updated_at": "2026-10-17T05:00:10.373Z"
     },
     "17910807402517272": {
       "account": "hibanomori",
@@ -1598,7 +1598,7 @@
         "profile_visits": 3,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:13.393Z"
+      "updated_at": "2026-10-17T05:00:13.847Z"
     },
     "18128889223835992": {
       "account": "hibanomori",
@@ -1644,7 +1644,7 @@
         "profile_visits": 1,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:16.066Z"
+      "updated_at": "2026-10-17T05:00:16.919Z"
     },
     "18092023994663411": {
       "account": "hibanomori",
@@ -1680,8 +1680,8 @@
       ],
       "title": "木の湯船じゃなくても、湯を木の香りに",
       "metrics": {
-        "reach": 21,
-        "views": 45,
+        "reach": 22,
+        "views": 46,
         "saved": 0,
         "shares": 0,
         "likes": 2,
@@ -1690,7 +1690,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:18.528Z"
+      "updated_at": "2026-10-17T05:00:20.179Z"
     },
     "17924632593440261": {
       "account": "hibanomori",
@@ -1733,8 +1733,8 @@
       ],
       "title": "ゴミ箱の底に、コットンを一枚",
       "metrics": {
-        "reach": 16,
-        "views": 45,
+        "reach": 18,
+        "views": 48,
         "saved": 0,
         "shares": 0,
         "likes": 1,
@@ -1743,7 +1743,7 @@
         "profile_visits": 0,
         "follows": 0
       },
-      "updated_at": "2026-10-16T21:43:21.035Z"
+      "updated_at": "2026-10-17T05:00:23.743Z"
     },
     "17975121204188933": {
       "account": "hibanomori",
@@ -1757,14 +1757,14 @@
       "hashtags": [],
       "title": "",
       "metrics": {
-        "reach": 24,
-        "views": 41,
+        "reach": 30,
+        "views": 48,
         "replies": 1,
         "shares": 0,
         "total_interactions": 4,
-        "navigation": 26
+        "navigation": 30
       },
-      "updated_at": "2026-10-16T21:43:26.698Z"
+      "updated_at": "2026-10-17T05:00:31.995Z"
     },
     "18108996728611980": {
       "account": "hibanomori",
@@ -1789,17 +1789,38 @@
       ],
       "title": "大間まぐろの季節が、来ています",
       "metrics": {
-        "reach": 184,
-        "views": 336,
+        "reach": 281,
+        "views": 501,
         "saved": 0,
         "shares": 1,
-        "likes": 7,
+        "likes": 11,
         "comments": 0,
-        "total_interactions": 8,
-        "profile_visits": 10,
-        "follows": 0
+        "total_interactions": 12,
+        "profile_visits": 18,
+        "follows": 1
       },
-      "updated_at": "2026-10-16T21:43:28.970Z"
+      "updated_at": "2026-10-17T05:00:35.179Z"
+    },
+    "18145000924504996": {
+      "account": "hibanomori",
+      "date": "2026-10-17",
+      "published_at": "2026-10-17T00:57:58.325Z",
+      "type": "story",
+      "pillar": "S",
+      "format": null,
+      "exp": null,
+      "note_id": null,
+      "hashtags": [],
+      "title": "",
+      "metrics": {
+        "reach": 6,
+        "views": 9,
+        "replies": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "navigation": 8
+      },
+      "updated_at": "2026-10-17T05:00:43.433Z"
     }
   },
   "followers": {
@@ -1810,7 +1831,7 @@
       "2026-10-14": 39,
       "2026-10-15": 39,
       "2026-10-16": 39,
-      "2026-10-17": 39
+      "2026-10-17": 41
     },
     "hibasoken": {
       "2026-10-11": 18,
@@ -1822,6 +1843,6 @@
       "2026-10-17": 19
     }
   },
-  "fetched_at": "2026-10-16T21:43:29.803Z",
+  "fetched_at": "2026-10-17T05:00:45.170Z",
   "last_error": "(#100) Tried accessing nonexisting field (insights)"
 }

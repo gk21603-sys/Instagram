@@ -2562,7 +2562,9 @@
       "#漁港",
       "#大間崎"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18081889337708339",
+    "published_at": "2026-10-17T05:22:41.344Z"
   },
   {
     "account": "hibanomori",
@@ -2574,7 +2576,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17977752537124503",
+    "published_at": "2026-10-17T05:22:41.344Z"
   },
   {
     "account": "hibanomori",

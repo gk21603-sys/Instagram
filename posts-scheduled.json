@@ -2700,7 +2700,9 @@
       "#大間マグロ",
       "#函館旅行"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17913619689495390",
+    "published_at": "2026-10-19T11:50:37.982Z"
   },
   {
     "account": "hibanomori",

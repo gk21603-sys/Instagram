@@ -2867,7 +2867,9 @@
       "#丁寧な暮らし",
       "#天然素材"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18101344427382819",
+    "published_at": "2026-10-23T06:50:39.571Z"
   },
   {
     "account": "hibanomori",
@@ -2879,7 +2881,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17953328007336669",
+    "published_at": "2026-10-23T06:50:39.571Z"
   },
   {
     "account": "hibanomori",

@@ -3000,7 +3000,9 @@
       "#柔軟剤",
       "#ヒバ水"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17901598248656026",
+    "published_at": "2026-10-26T08:23:24.746Z"
   },
   {
     "account": "hibanomori",
@@ -3013,7 +3015,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18081102482426491",
+    "published_at": "2026-10-26T08:23:24.746Z"
   },
   {
     "account": "hibanomori",

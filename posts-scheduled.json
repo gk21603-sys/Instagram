@@ -3046,7 +3046,9 @@
       "#恐山",
       "#津軽海峡"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18082792040357123",
+    "published_at": "2026-10-27T05:52:46.272Z"
   },
   {
     "account": "hibanomori",
@@ -3059,7 +3061,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18147320080572281",
+    "published_at": "2026-10-27T05:52:46.272Z"
   },
   {
     "account": "hibanomori",

@@ -3548,7 +3548,9 @@
       "#青森旅行",
       "#大間マグロ"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18467248231138331",
+    "published_at": "2026-10-28T13:44:07.818Z"
   },
   {
     "account": "hibanomori",

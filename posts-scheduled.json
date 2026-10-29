@@ -3135,7 +3135,9 @@
       "#アロマストーン",
       "#冬支度"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18351439396268865",
+    "published_at": "2026-10-29T03:56:06.079Z"
   },
   {
     "account": "hibanomori",
@@ -3148,7 +3150,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18133109479774782",
+    "published_at": "2026-10-29T03:56:06.079Z"
   },
   {
     "account": "hibanomori",

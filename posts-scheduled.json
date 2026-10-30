@@ -3181,7 +3181,9 @@
       "#青森の歴史",
       "#港町"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18102397565454365",
+    "published_at": "2026-10-30T09:27:21.001Z"
   },
   {
     "account": "hibanomori",
@@ -3194,7 +3196,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18143669845526246",
+    "published_at": "2026-10-30T09:27:21.001Z"
   },
   {
     "account": "hibanomori",

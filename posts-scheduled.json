@@ -3227,7 +3227,9 @@
       "#アロマのある暮らし",
       "#和精油"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18095175506178560",
+    "published_at": "2026-10-31T07:52:56.857Z"
   },
   {
     "account": "hibanomori",
@@ -3240,7 +3242,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17964565479213527",
+    "published_at": "2026-10-31T07:52:56.857Z"
   },
   {
     "account": "hibanomori",

@@ -3270,7 +3270,9 @@
       "#芳香蒸留水",
       "#蒸留"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17977892774934956",
+    "published_at": "2026-11-01T08:35:09.488Z"
   },
   {
     "account": "hibanomori",
@@ -3283,7 +3285,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17990810277118308",
+    "published_at": "2026-11-01T08:35:09.488Z"
   },
   {
     "account": "hibanomori",

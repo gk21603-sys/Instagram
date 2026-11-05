@@ -3451,7 +3451,9 @@
       "#大間マグロ",
       "#むつ市"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18015921431991973",
+    "published_at": "2026-11-05T03:01:42.106Z"
   },
   {
     "account": "hibanomori",
@@ -3464,7 +3466,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17912072973573518",
+    "published_at": "2026-11-05T03:01:42.106Z"
   },
   {
     "account": "hibanomori",

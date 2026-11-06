@@ -3494,7 +3494,9 @@
       "#成分表",
       "#石けん"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18102116693371701",
+    "published_at": "2026-11-06T07:33:46.726Z"
   },
   {
     "account": "hibanomori",
@@ -3507,7 +3509,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18377321566208692",
+    "published_at": "2026-11-06T07:33:46.726Z"
   },
   {
     "account": "hibanomori",

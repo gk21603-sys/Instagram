@@ -1,0 +1,59 @@
+[
+ {
+  "date": "2026-11-07-soken",
+  "format": "N-photo",
+  "cover": "photo",
+  "exp": "account:soken|news",
+  "slides": [
+   {
+    "kind": "photo",
+    "photo": "stock-compass-white.jpg",
+    "focus": 0.5,
+    "focus_x": 0.35,
+    "kicker": "ヒバ総合研究所｜お知らせ",
+    "title": "企業理念を、\n制定しました",
+    "body": "経営哲学・存在意義・使命・ビジョンの\n4つを、言葉にしました。",
+    "band": "top"
+   },
+   {
+    "kind": "photo",
+    "photo": "stock-hirosaki-milky-way-forest.jpg",
+    "focus": 0.4,
+    "kicker": "経営哲学｜True North",
+    "title": "北に根ざし、\n真を貫く。",
+    "body": "お客様・社員・地域社会・自然に対して、\n常に正しいことをし、本物を大事にする。"
+   },
+   {
+    "kind": "photo",
+    "photo": "stock-oirase-stream-green.jpg",
+    "focus": 0.5,
+    "kicker": "存在意義｜Eudaimonia",
+    "title": "お客様と社員の\nエウダイモニアを\n持続的に実現する",
+    "body": "エウダイモニアとは、アリストテレスが\n説いた「善く生きること」です。"
+   },
+   {
+    "kind": "photo",
+    "photo": "oma-lighthouse-bentenjima.jpg",
+    "focus": 0.5,
+    "focus_x": 0.62,
+    "kicker": "使命｜Mission",
+    "title": "青森ヒバの道を\n拓いた者として、\n最高の品質を\n届け続ける"
+   },
+   {
+    "kind": "photo",
+    "photo": "stock-tappi-misaki.jpg",
+    "focus": 0.5,
+    "kicker": "ビジョン｜Vision",
+    "title": "日本中、そして世界中の\n人々が、青森ヒバの\n恵みで健やかに暮らす\n世界の実現",
+    "band": "top"
+   },
+   {
+    "kind": "text",
+    "kicker": "全文はウェブサイトで",
+    "title": "それぞれの言葉に、\n込めた思い",
+    "body": "北極星と大間のこと。エウダイモニアのこと。\n企業理念のページで、ひとつずつ\nご紹介しています。",
+    "note": "aomori-hiba.com／企業理念"
+   }
+  ]
+ }
+]

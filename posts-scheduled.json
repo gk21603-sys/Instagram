@@ -3510,12 +3510,12 @@
     "status": "approved"
   },
   {
-    "account": "hibasoken",
+    "account": "hibanomori",
     "publish_at": "2026-11-07T10:00:00+09:00",
     "type": "carousel",
     "pillar": "N",
     "format": "N-photo",
-    "exp": "account:soken|news",
+    "exp": "collab:soken|news",
     "title": "企業理念を公開しました",
     "images": [
       "images/2026-11/c-2026-11-07-soken-1.jpg",
@@ -3527,13 +3527,17 @@
     ],
     "caption": "企業理念を公開しました。\n\n1988年のヒバ開発の創業から受け継いできた考え方を、2026年に歩みを始めたヒバ総合研究所の企業理念として、あらためて言葉にしました。\n\n経営哲学：True North\nお客様・社員・地域社会・自然に対して、常に正しいことをし、本物を大事にする。\n\n存在意義：Eudaimonia\n私たちは、お客様と社員のエウダイモニアを持続的に実現する。\n\n使命\n青森ヒバの道を拓いた者として、最高の品質を届け続ける。\n\nビジョン\n日本中、そして世界中の人々が、青森ヒバの恵みで健やかに暮らす世界の実現\n\nそれぞれの言葉に込めた思いは、ウェブサイトの「企業理念」のページでご紹介しています。\nwww.aomori-hiba.com/philosophy.html",
     "hashtags": [
-      "#ヒバ総合研究所",
+      "#ひばの森",
       "#青森ひば",
       "#ヒバ",
       "#大間町",
+      "#ヒバ総合研究所",
       "#企業理念"
     ],
-    "status": "approved"
+    "status": "approved",
+    "collaborators": [
+      "hiba_soken"
+    ]
   },
   {
     "account": "hibanomori",

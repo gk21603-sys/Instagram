@@ -86,6 +86,21 @@ function locationParams(post) {
   return id ? { location_id: String(id) } : {};
 }
 
+// 共同投稿（コラボ）。post.collaborators にユーザー名の配列（最大3）。
+// 相手アカウントがアプリで招待を承認すると、相手のプロフィールにも表示される。
+// 指定が原因で作成に失敗したときは、共同投稿なしで作り直して投稿自体は止めない。
+async function createWithCollab(igUserId, post, params) {
+  const collab = Array.isArray(post.collaborators) && post.collaborators.length > 0;
+  if (!collab) return graphPost(`${igUserId}/media`, params);
+  try {
+    return await graphPost(`${igUserId}/media`, { ...params, collaborators: JSON.stringify(post.collaborators) });
+  } catch (err) {
+    console.error(`  共同投稿の指定で失敗したため、共同投稿なしで作り直します: ${err.message}`);
+    post.collab_error = String(err.message || err);
+    return graphPost(`${igUserId}/media`, params);
+  }
+}
+
 async function publishPost(post) {
   const igUserId = IG_IDS[post.account];
   if (!igUserId) {
@@ -97,7 +112,7 @@ async function publishPost(post) {
 
   // 単一画像
   if (post.type === 'image' && post.images.length === 1) {
-    const container = await graphPost(`${igUserId}/media`, {
+    const container = await createWithCollab(igUserId, post, {
       image_url: IMAGE_BASE + post.images[0],
       caption,
       ...loc,
@@ -120,7 +135,7 @@ async function publishPost(post) {
       await waitUntilFinished(child.id);
       childIds.push(child.id);
     }
-    const container = await graphPost(`${igUserId}/media`, {
+    const container = await createWithCollab(igUserId, post, {
       media_type: 'CAROUSEL',
       children: childIds.join(','),
       caption,

@@ -3586,7 +3586,9 @@
       "#津軽海峡",
       "#森林"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18154712956525000",
+    "published_at": "2026-11-07T08:09:39.079Z"
   },
   {
     "account": "hibanomori",
@@ -3599,7 +3601,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18182643763427229",
+    "published_at": "2026-11-07T08:09:39.079Z"
   },
   {
     "account": "hibanomori",

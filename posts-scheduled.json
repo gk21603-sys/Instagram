@@ -3538,10 +3538,12 @@
       "#ヒバ総合研究所",
       "#企業理念"
     ],
-    "status": "approved",
+    "status": "published",
     "collaborators": [
       "hiba_soken"
-    ]
+    ],
+    "published_media_id": "18438724069181111",
+    "published_at": "2026-11-07T01:30:25.852Z"
   },
   {
     "account": "hibanomori",
@@ -3553,7 +3555,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18138507958659276",
+    "published_at": "2026-11-07T01:30:25.852Z"
   },
   {
     "account": "hibanomori",

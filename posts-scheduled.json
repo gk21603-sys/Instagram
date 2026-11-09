@@ -3760,7 +3760,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18093174920247502",
+    "published_at": "2026-11-09T07:33:38.158Z"
   },
   {
     "account": "hibanomori",
@@ -3889,7 +3891,9 @@
       "#青森旅行",
       "#大間マグロ"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18127661843489720",
+    "published_at": "2026-11-09T07:33:38.158Z"
   },
   {
     "account": "hibanomori",

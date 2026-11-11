@@ -3999,7 +3999,9 @@
       "#青森旅行",
       "#本州最北端"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18171497716476150",
+    "published_at": "2026-11-11T10:10:30.719Z"
   },
   {
     "account": "hibanomori",
@@ -4012,7 +4014,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18093516032229935",
+    "published_at": "2026-11-11T10:10:30.719Z"
   },
   {
     "account": "hibanomori",

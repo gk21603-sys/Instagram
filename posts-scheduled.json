@@ -4043,7 +4043,9 @@
       "#アミノ酸シャンプー",
       "#無添加シャンプー"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18129716512898944",
+    "published_at": "2026-11-12T09:05:59.771Z"
   },
   {
     "account": "hibanomori",
@@ -4056,7 +4058,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18082850405380388",
+    "published_at": "2026-11-12T09:05:59.771Z"
   },
   {
     "account": "hibanomori",
@@ -4086,7 +4090,9 @@
       "#漁師",
       "#津軽海峡"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18102668240554033",
+    "published_at": "2026-11-12T09:05:59.771Z"
   },
   {
     "account": "hibanomori",

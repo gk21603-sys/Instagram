@@ -4123,7 +4123,9 @@
       "#本州最北端",
       "#大間崎"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18160588750563357",
+    "published_at": "2026-11-13T04:38:48.311Z"
   },
   {
     "account": "hibanomori",
@@ -4136,7 +4138,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17893132437686119",
+    "published_at": "2026-11-13T04:38:48.311Z"
   },
   {
     "account": "hibanomori",

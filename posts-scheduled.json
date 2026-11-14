@@ -4166,7 +4166,9 @@
       "#ヒバチップ",
       "#木のある暮らし"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18119724457824011",
+    "published_at": "2026-11-14T08:27:21.545Z"
   },
   {
     "account": "hibanomori",
@@ -4179,7 +4181,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17984088738160712",
+    "published_at": "2026-11-14T08:27:21.545Z"
   },
   {
     "account": "hibanomori",
@@ -4209,7 +4213,9 @@
       "#漁師",
       "#津軽海峡"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18093669035232807",
+    "published_at": "2026-11-14T08:27:21.545Z"
   },
   {
     "account": "hibanomori",

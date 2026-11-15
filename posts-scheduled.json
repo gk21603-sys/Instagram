@@ -4245,7 +4245,9 @@
       "#本州最北端",
       "#津軽海峡"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18080146655743541",
+    "published_at": "2026-11-15T07:26:54.690Z"
   },
   {
     "account": "hibanomori",
@@ -4258,7 +4260,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18093762734216706",
+    "published_at": "2026-11-15T07:26:54.690Z"
   },
   {
     "account": "hibanomori",

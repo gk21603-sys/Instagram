@@ -4289,7 +4289,9 @@
       "#化粧水",
       "#化粧品検定"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18111250966944843",
+    "published_at": "2026-11-16T07:32:40.681Z"
   },
   {
     "account": "hibanomori",
@@ -4302,7 +4304,9 @@
     ],
     "caption": "",
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18083275520717673",
+    "published_at": "2026-11-16T07:32:40.681Z"
   },
   {
     "account": "hibanomori",

@@ -4382,7 +4382,9 @@
       "#青森旅行",
       "#下北半島"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18182537977432502",
+    "published_at": "2026-11-18T09:57:11.767Z"
   },
   {
     "account": "hibanomori",
@@ -4394,7 +4396,9 @@
       "images/stories/daily-2026-11-18.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18120385291962365",
+    "published_at": "2026-11-18T09:57:11.767Z"
   },
   {
     "account": "hibanomori",

@@ -4425,7 +4425,9 @@
       "#ヒバチップ",
       "#木のある暮らし"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18179947444449376",
+    "published_at": "2026-11-19T08:18:08.018Z"
   },
   {
     "account": "hibanomori",
@@ -4437,7 +4439,9 @@
       "images/stories/daily-2026-11-19.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18123233113980085",
+    "published_at": "2026-11-19T08:18:08.018Z"
   },
   {
     "account": "hibanomori",
@@ -4467,7 +4471,9 @@
       "#津軽海峡",
       "#本州最北端"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17957485908323829",
+    "published_at": "2026-11-19T08:18:08.018Z"
   },
   {
     "account": "hibanomori",

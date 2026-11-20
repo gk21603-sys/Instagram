@@ -4503,7 +4503,9 @@
       "#青森旅行",
       "#函館旅行"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18116172368145935",
+    "published_at": "2026-11-20T07:58:13.880Z"
   },
   {
     "account": "hibanomori",
@@ -4515,7 +4517,9 @@
       "images/stories/daily-2026-11-20.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18092347982262075",
+    "published_at": "2026-11-20T07:58:13.880Z"
   },
   {
     "account": "hibanomori",

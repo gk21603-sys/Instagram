@@ -4549,7 +4549,9 @@
       "#下北半島",
       "#函館旅行"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18148258174612231",
+    "published_at": "2026-11-21T03:42:30.041Z"
   },
   {
     "account": "hibanomori",
@@ -4561,7 +4563,9 @@
       "images/stories/daily-2026-11-21.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18130302325868805",
+    "published_at": "2026-11-21T03:42:30.041Z"
   },
   {
     "account": "hibanomori",

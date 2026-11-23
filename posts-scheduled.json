@@ -4670,7 +4670,9 @@
       "#本州最北端",
       "#下北半島"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17883590658553779",
+    "published_at": "2026-11-23T10:09:01.938Z"
   },
   {
     "account": "hibanomori",
@@ -4682,7 +4684,9 @@
       "images/stories/daily-2026-11-23.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18214452391365736",
+    "published_at": "2026-11-23T10:09:01.938Z"
   },
   {
     "account": "hibanomori",

@@ -4717,7 +4717,9 @@
       "#津軽海峡",
       "#大間マグロ"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18146325349717452",
+    "published_at": "2026-11-24T06:40:48.153Z"
   },
   {
     "account": "hibanomori",
@@ -4936,7 +4938,9 @@
       "images/stories/daily-2026-11-24.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18089903294512143",
+    "published_at": "2026-11-24T06:40:48.153Z"
   },
   {
     "account": "hibanomori",

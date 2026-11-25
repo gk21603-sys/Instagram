@@ -4746,7 +4746,9 @@
       "#石けん置き",
       "#木のある暮らし"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17995930101074489",
+    "published_at": "2026-11-25T11:59:16.787Z"
   },
   {
     "account": "hibanomori",
@@ -4776,7 +4778,9 @@
       "#本州最北端",
       "#津軽海峡"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17922537786532977",
+    "published_at": "2026-11-25T11:59:16.787Z"
   },
   {
     "account": "hibanomori",
@@ -4952,7 +4956,9 @@
       "images/stories/daily-2026-11-25.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17919476307542095",
+    "published_at": "2026-11-25T11:59:16.787Z"
   },
   {
     "account": "hibanomori",

@@ -4905,7 +4905,9 @@
       "#津軽海峡",
       "#大間マグロ"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18088766495712500",
+    "published_at": "2026-11-28T14:54:50.434Z"
   },
   {
     "account": "hibanomori",

@@ -4873,7 +4873,9 @@
       "#香料",
       "#化粧品検定"
     ],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "18141184963643274",
+    "published_at": "2026-11-28T05:54:29.149Z"
   },
   {
     "account": "hibanomori",
@@ -5002,7 +5004,9 @@
       "images/stories/daily-2026-11-28.jpg"
     ],
     "hashtags": [],
-    "status": "approved"
+    "status": "published",
+    "published_media_id": "17998386504052152",
+    "published_at": "2026-11-28T05:54:29.149Z"
   },
   {
     "account": "hibanomori",
